@@ -1,3 +1,4 @@
+import { renderExcalidrawLinks } from "./util"
 const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
@@ -15,6 +16,7 @@ document.addEventListener("nav", () => {
       document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
     document.documentElement.setAttribute("saved-theme", newTheme)
     localStorage.setItem("theme", newTheme)
+    renderExcalidrawLinks(newTheme)
     emitThemeChangeEvent(newTheme)
   }
 
@@ -23,6 +25,7 @@ document.addEventListener("nav", () => {
     document.documentElement.setAttribute("saved-theme", newTheme)
     localStorage.setItem("theme", newTheme)
     emitThemeChangeEvent(newTheme)
+    renderExcalidrawLinks(newTheme)
   }
 
   for (const darkmodeButton of document.getElementsByClassName("darkmode")) {

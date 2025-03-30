@@ -4,6 +4,7 @@ date:
   - 2024-12-09
 tags:
   - MBA01
+  - MBA
 ---
 ## Theory / Knowledge (Gtg started)
 

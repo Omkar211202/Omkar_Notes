@@ -4,6 +4,7 @@ date:
   - 2025-02-04
 tags:
   - Techie
+draft: "true"
 ---
 ## How does ChatGPT Work???
 
@@ -25,7 +26,73 @@ Meaning: You can ask question 1 to LLM1 and the question 2 can be answered by LL
 
 - The local LLM's will have a last updated date, meaning they will not be able to answer questions post a certain date. This is because they do not have the ability to access online resources and rephrase to give an answer.
 
+---
+## Setting up the environment:
 
+- check if you have python and also check the version `>=3.12`, else do the need.
+
+```sh
+python
+python --version
+```
+
+
+- install poetry
+```sh
+pip install poetry
+```
+
+- create a folder where under the python root installed.
+
+- initialize poetry: choose all defaults after going to the folder created.
+- choose all defaults, do not install any dependencies.
+```sh
+poetry init
+```
+
+- this will install shell plugin
+```sh
+poetry self add poetry-plugin-shell
+```
+
+- setting up the venv:
+```sh
+poetry shell
+```
+
+
+### working in VS Code:
+- set up the copilot in vscode
+- install extensions: github copilot
+
+```sh
+poetry add openai
+poetry add langchain
+
+```
+
+---
+##  Function Calling:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ## Step 1:
 
 ### Deciding Topics for which model has to be made:
@@ -101,59 +168,12 @@ Meaning: You can ask question 1 to LLM1 and the question 2 can be answered by LL
 |**AI in Stock Market (Sentiment + Trading Bot)**|⭐⭐⭐⭐|⭐⭐⭐|✅ Medium|
 
 
----
 
-## Setting up the environment:
-
-- check if you have python and also check the version `>=3.12`, else do the need.
-
-```sh
-python
-python --version
-```
-
-
-- install poetry
-```sh
-pip install poetry
-```
-
-- create a folder where under the python root installed.
-
-- initialize poetry: choose all defaults after going to the folder created.
-- choose all defaults, do not install any dependencies.
-```sh
-poetry init
-```
-
-- this will install shell plugin
-```sh
-poetry self add poetry-plugin-shell
-```
-
-- setting up the venv:
-```sh
-poetry shell
-```
-
-
-### working in VS Code:
-- set up the copilot in vscode
-- install extensions: github copilot
-
-```sh
-poetry add openai
-poetry add langchain
-
-```
-
-
-##  Function Calling:
-
-
-
-
-
-
-
+### Data handling:
+1. Create
+2. Read
+3. Update
+4. Delete
+5. Transform
+6. Filter
 

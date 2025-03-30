@@ -1,3 +1,0 @@
----
-title: HR Job Description
----

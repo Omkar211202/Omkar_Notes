@@ -4,6 +4,7 @@ date:
   - 2024-12-12
 tags:
   - MBA02
+  - MBA
 ---
 
 ## Types of Analytics:
@@ -20,37 +21,24 @@ Types of scales
 - Ordinal scale: rank ordered (no fixed units of measurement).(beauty etc.) like, dislike etc.
 - Interval: continuous data.(can have breaks between) can have negative
 - Ratio: bounded data with upper and lower limits. (heights of  humans)
-- Likert scale: 
-
-![[Pasted image 20241219134246.png]]
-
-- observations are placed in this table.
-- variables/dimensions: supplier, order no, item no etc.
 
 ---
 
 ## CRISP DM model:
 
-- Business understanding (parameter like churn status(customers), attrition(HR)).
-- data understanding (understand the target var)
-- data preparation (removing NAN'S etc.)
-- modeling (machine learning models)
-- evaluation 
-- deployment
-
 ---
 
-## RStudio basics:
+## RStudio 
 
 1. How to change appearance:
 - go to  Tools - global options - Appearance and change - apply.
-## Basics
+### Basics
 
 - put # for commenting in R.
 - `<-` may be used as an assignment operator to a var, `=` and `->` will also suffice the same.
 - `class()` may used to determine the datatype of the variable.
 
-```R
+```r
 print("God is Great") # how to print a string in R
 ls() # Will list out all objects or variables created in memory.
 sample(x=1:4,size=4) # random function
@@ -59,7 +47,7 @@ library(ggplot2) # how to use a package in R
 ?CrossTable # to know about some function or data in RBase.
 ```
 
-```R
+```r
 # Some basic operations in R
 5*6        # Multipliation
 1000/25    # Division
@@ -67,7 +55,7 @@ sqrt(42)   # Square root
 5%%6       # modulo operator
 ```
 
-```R
+```r
 # Assigning a variable in R
 x=42
 x
@@ -86,9 +74,9 @@ glue("the mtcars dataset has {x} rows.")  ## a library in R called Glue
 
 ```
 
-## Vectors in R:
+### Vectors in R:
 
-```R
+```r
 ##Assigning a vector using C
 z=c(10,5,3)
 z
@@ -140,12 +128,12 @@ names(roulette_vector) <- c("Monday", "Tuesday", "Wednesday", "Thursday", 
 ```
 
 
-## Other Functions in R:
+### Other Functions in R:
 ```R
 lapply(),sapply(),unlist()
 
 ```
-## Lists:
+### Lists:
 
 List is heterogeneous collection of datatypes. It can have strings, numbers, etc.
 
@@ -166,7 +154,7 @@ my_list[[3]][3]
 
 ---
 
-## Loops in R:
+### Loops in R:
 
 ```R
 x=0
@@ -198,7 +186,7 @@ counter=counter+1
 
 ---
 
-## Amortization of Loan:
+### Amortization of Loan:
 
 ```R
 month=0
@@ -219,7 +207,7 @@ while(balance>0){
 
 ---
 
-## Handling Days in R
+### Handling Days in R
 ```R
 today=Sys.Date()
 day=weekdays(today)
@@ -228,7 +216,7 @@ today
 ```
 
 
-## Matrix:
+### Matrix:
 
 ```R
 # creating a matrix (data, rows, col)
@@ -353,7 +341,7 @@ x
 
 ---
 
-## Dataframe:
+### Dataframe:
 
 ```R
 avg=c(3.4, 2.8, 4.2, 5.8, 11.4, 12.6, 14.6, 13.9, 13.7, 9.2, 4.3, 3.1, 2.3, 0.5, 0.8, 6.7, 13.5, 13.6, 16.2, 13.8, 11.6, 8.0, 6.6, 3.9, 1.7, 4.6, 4.0, 9.1, 8.8, 13.2, 15.4, 15.8, 11.6, 7.8, 3.6, 4.8)
@@ -370,7 +358,7 @@ df[,"avg"]
 
 ---
 
-## Data Processing in R:
+### Data Processing in R:
 
 ```R
 df=data.frame(Products=c("A","B","C","D","E"),
@@ -401,7 +389,7 @@ my_data2
 
 
 
-## Plotting in R:
+### Plotting in R:
 
 ```R
 penguins
@@ -423,20 +411,14 @@ p_box+p_violin & theme(axis.text.x = element_text(angle=45))
 
 ---
 
-## Cross Tabulation In R:
+### Cross Tabulation In R:
 
 - We will want to sort our datasets into sub datasets, to solve some problems, like you may want to find out all those people who are from northern India, and see what is there average age etc.
 - That's when we can use Cross Tabs in R.
 
-
-
-
-
 ---
 
 ## Machine Learning in R:
-
-
 ### Confusion Matrix
 
 - accuracy: $\dfrac{TP+TN}{Total}$
@@ -446,5 +428,8 @@ p_box+p_violin & theme(axis.text.x = element_text(angle=45))
 - Recall: $\dfrac{TP}{TP+FN}$
 
 - F1-Score: $\dfrac{2.Precision.Recall}{Precision+Recall}$
+
+---
+
 
 

@@ -4,6 +4,7 @@ date:
   - 2024-11-01
 tags:
   - FM
+  - Act
 ---
 
 ## Spot Rates and Forward Rates.

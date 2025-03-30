@@ -4,7 +4,7 @@ date:
   - 2024-10-28
 tags:
   - FM
-  - To_Do
+  - Act
 ---
 ## What are Annuities?
 Annuities are payments made at regular intervals by you or someone else to you, because you should return lumpsum at the end or you paid lumpsum in the beginning respectively.
@@ -15,7 +15,6 @@ There are 2 types of annuities;
 2. Non Level Annuities: Annuities where payments vary with time.
 
 ## Level Annuities.
-`To Include diagrams for enhancing learning.`
 ## Annuity Immediate:
 
 Annuity Immediate in an annuity payment where the first payment is made at the end of first year.
@@ -87,13 +86,6 @@ $$
 If interest changes there are 2 methods that can happen:
 1. Portfolio method: Same interest for any payment, during a given period of time.
 2. Yield Curve method: Interest is charged based on the time of deposit.
-
----
-Continuous Annuities:
-`To Do`
-
-
-
 
 ---
 

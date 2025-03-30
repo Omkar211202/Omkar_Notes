@@ -4,6 +4,7 @@ date:
   - 2024-10-28
 tags:
   - MBA01
+  - MBA
 ---
 ## Basic Statistics and Excel:
 ### Excel Formulas:
@@ -142,7 +143,7 @@ accept the null hypothesis if the above happens.
 
 ---
 
-### t- test:
+### T- test:
 ### Popn variances unknown
 1. Popn variances is equal.
 2. Popn variances is unequal.
@@ -181,7 +182,7 @@ In life, we can be given situations where, we have a set of data, consisting of 
 Independent Variables: 
 These variables are not affected in the equation by other variables. The changes in the independent variables affect the dependent variable.
 
-Eg: Price of house (dependent) may affected by factors like no of rooms, location, date of construction etc. (Independent)
+Example: Price of house (dependent) may affected by factors like no of rooms, location, date of construction etc. (Independent)
 
 If a dependent variable is affected by only one variable: it may be fitted into the following model or equation:
 $$

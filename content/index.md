@@ -3,38 +3,26 @@ title: BlackBox
 date:
   - 2024-10-27
 ---
-
 [[Drawing9.excalidraw]]
 
-## **What's BlackBox?**
+## What's BlackBox ?
 
-If this is the question running in your head...Well Read this:
-Black Box is a place where lots of notes, ideas and thoughts are collected...
-- Black Box is generally present in a plane...Did you know this?? 
+Black Box is a note-management system built to make systematic, eternal and accessible notes.
+Built by using the Quartz V4 framework, notes made on Obsidian are rendered on this web-site.
+The following are few of the contents of black box:
 
- This is a place where all the conversation between the Pilot and the ground staff is stored. If anything is forgotten, unheard and has to be retrieved,  the go to place is the **BlackBox.** So if I have to do the same...I go to this **BlackBox**
+- [[MBA]]: Includes lessons from Finance, Marketing, Operation and Analytics.
+- [[Actuarial]]: Includes info about exam FM
+- [[Miscellaneous]]:  This contains some random yet important things you may want to know.
+- [[TheTechie]]: Some magical coding that probably could simplify your work
 
-- They say in [[Marketing]], Human Brain is like a **BlackBox**... Do you know why??
+## Welcome to BlackBox
 
-Its tough to think what someone else is thinking....You get blacked out...
-
-## Sorry, No Gyan...( The Truth below):
-
-I was bored in class... So I build this Black Box to help out the like minded ones...
-To you all.....
-
-**Ahem...Ahem....**
-
-Anyone can use this, but:
 
 > [!caution]
 > You need Internet
 
-## Things Stored so far:
-- [[MBA]]: I have to attend my classes...  So Notes here...
-- [[Actuarial]]: I have to write exams... So Formulas here...
-- [[Miscellaneous]]: Learning is beyond classes... So Lessons here...
-- [[TheTechie]]: At my heart, Love to be a techie.... So Code here...
+
 
 
 

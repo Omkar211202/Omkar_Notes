@@ -4,6 +4,7 @@ date:
   - 2024-11-13
 tags:
   - MBA01
+  - MBA
 ---
 ## Organizational Behavior:
 
@@ -209,8 +210,6 @@ derived form 'Movere', to move, a complex interactions of behaviors, needs, rewa
 
 ---
 ## Groups:
-- forming, storming, norming, performingb,adjourning.
-
-
+- forming, storming, norming, performing, adjourning.
 
 ---

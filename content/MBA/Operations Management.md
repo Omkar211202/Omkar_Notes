@@ -4,6 +4,7 @@ date:
   - 2025-03-10
 tags:
   - MBA02
+  - MBA
 ---
 ## Operations Management:
 
@@ -55,8 +56,11 @@ Operations management functions:
 
 - Long-term vs short term.
 
+---
 ## Operations strategy:
 
+
+---
 
 ## Quality Management:
 
@@ -96,7 +100,7 @@ Quality function deployment (QFD): (Yoji Akao, 1960's, KOBE shipyards)
 
 - House of Quality diagram
 
-
+---
 ## Demand Forecasting:
 
 - Forecasting: The process of estimating or predicting the need for a particular good and the amount of resources required to produce them.

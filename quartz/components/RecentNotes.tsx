@@ -18,7 +18,7 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  limit: 3,
+  limit: 2,
   linkToMore: false,
   showTags: false,
   filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "excalidraw",

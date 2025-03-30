@@ -8,9 +8,6 @@ tags:
 ## Finance Research
 - [Acquirer's Multiple](https://acquirersmultiple.com/)
 
-
-
-
 ## Equity Markets
 
 - Sector-wise updates: [Trading View](https://in.tradingview.com/markets/stocks-india/sectorandindustry-sector/)

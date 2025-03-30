@@ -4,6 +4,7 @@ date:
   - 2024-11-03
 tags:
   - MBA01
+  - MBA
 ---
 ## What's BGS ??
 
@@ -101,7 +102,7 @@ Deontology:
 - a moral theory that judges based on the set of rules followed not the end result.
 
 ### Fourteen principles of  ethics:
-C2d2imegoprptu
+code:C2D2IMEGOPRPT
 - categorical imperative
 - conventional ethic
 - disclosure

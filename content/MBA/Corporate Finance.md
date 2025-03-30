@@ -4,13 +4,12 @@ date:
   - 2024-12-09
 tags:
   - MBA02
+  - MBA
 ---
 - The whole concept lies on: inflows(finance) and outflows(investments).
 - The whole concept should ensure minimal cash.(survival and growth).
 - dividends when no avenues to  grow or pay back loans faster.
-
 - Corporate finance has 3 decisions: Investment, Financing, dividend.
-
 ### Investment decision:
 1. Long term: Budget(capital budget: projection for future)
 - Long term assets that will help to grow business, more than one year: capital assets.

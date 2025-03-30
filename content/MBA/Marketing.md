@@ -4,6 +4,7 @@ date:
   - 2024-11-11
 tags:
   - MBA01
+  - MBA
 ---
 ## Marketing Introduction and Reality:
 
@@ -398,12 +399,11 @@ in between all these we can have noise.
 
 Micro model:
 
-| basis       | AIDA             | Hierarchy of effects     |
-| ----------- | ---------------- | ------------------------ |
-| cognitive   | attention        | acquire knowledge        |
-| affective   | interest, desire | like, prefer, conviction |
-| behaviorial | action           | Purchase                 |
-|             |                  |                          |
+| basis      | AIDA             | Hierarchy of effects     |
+| ---------- | ---------------- | ------------------------ |
+| cognitive  | attention        | acquire knowledge        |
+| affective  | interest, desire | like, prefer, conviction |
+| behavioral | action           | Purchase                 |
 ### Developing communication mix:
 - identifying the target audience: individuals vs public, influencers vs deciders, potential vs current, groups vs public, choosing where to sell, when to sell and by whom to sell.
 

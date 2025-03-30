@@ -4,11 +4,9 @@ date:
   - 2024-10-31
 tags:
   - MBA01
+  - MBA
 ---
 ## Cashflow Stmt.
-
-Pg: M.Y. Khan 247
-
 ### Formulas:
 $$
 COGS=Purchases+opening stock-closingstock.
@@ -37,7 +35,7 @@ $$
 
 - quick liabilities = CL - bank OD - cash credit
 
-
+---
 ###  Capital Structure Ratios:
 
 - $Debt\hspace{2mm}Equity\hspace{2mm}Ratio$ = $\dfrac{debt}{equity}$
@@ -61,6 +59,7 @@ $$
 - inter industry comparison is not feasible
 - seasonal factors
 
+---
 ### Budget and decisional making
 - finding deviations
 - revision of plans
@@ -70,17 +69,15 @@ $$
 - efficiency and effective utilization of resources
 - control and expenditure
 
-
+---
 ### Activity based accounting and Traditional
 - based on cost pools , based on cost centers
 - realistic, not realistic
 - elimination of irrelevant act, not elimination
 - cost are levied on objects, assigned to cost units
 - activity wise cost drivers are determined, time are assumed to be the only cost driver governing costs in all department.
-
+---
 ## Activity Based Costing
-
-Pg: 542 M.Y.Khan
 
 ### Traditional system and drawbacks:
 In the traditional format of costing, the overhead costs were allotted to production centers and they were ascertained to be a proportion of heads like machine hours or labor hrs. etc.
@@ -107,7 +104,6 @@ In the traditional format of costing, the overhead costs were allotted to produc
 2. Duration: time consumed in the process is measured as a driver. Eg: direct lab hrs.
 3. Intensity: special operations where work is based on quality and intensity deserve different activity subheadings.
 
-
 ### Activity based Management:
 ABM seeks to better the process of managing activities based on the info from ABC system.
 
@@ -128,12 +124,6 @@ Cost of Resource capacity:
 
 ### Disadvantages:
 - expensive affair to monitor and make cost drivers.
-
-
-Ex: 560 - 592 probs
-
-Pg: 785 M.Y.Khan
-
 
 ---
 ## Budgeting

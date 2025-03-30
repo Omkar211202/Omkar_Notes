@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"], // see  this
+    ignorePatterns: ["Private", "templates", ".obsidian"], // see  this
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -29,12 +29,12 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
+          light: "#faf8f8",  //background
+          lightgray: "#e5e5e5",  //borders
+          gray: "#b8b8b8",  //date
+          darkgray: "#4e4e4e",   //body text
+          dark: "#2b2b2b", //Main headings in text
+          secondary: "#284b63", //Web heading, tags and pathway
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",

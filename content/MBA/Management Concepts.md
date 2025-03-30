@@ -4,6 +4,7 @@ date:
   - 2024-11-07
 tags:
   - MBA01
+  - MBA
 ---
 ## Introduction:
 ### Definition:

@@ -4,6 +4,7 @@ date:
   - 2024-12-18
 tags:
   - MBA02
+  - MBA
 ---
 ## How to Read a Newspaper?
 
@@ -45,5 +46,3 @@ C:
 11. **Media and Entertainment (Streaming, Gaming, Social Media)**
 12. **Education (EdTech, Higher Education)**
 13. **Telecommunications (5G, Internet of Things)**
-
-## Lets do Phones!

@@ -4,6 +4,7 @@ date:
   - 2024-11-05
 tags:
   - MBA01
+  - MBA
 ---
 # Microeconomics:
 ## Terminology:

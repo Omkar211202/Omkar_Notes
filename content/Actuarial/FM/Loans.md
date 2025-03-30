@@ -4,6 +4,7 @@ date:
   - 2024-10-29
 tags:
   - FM
+  - Act
 ---
 ## Loans:
 Loans have the same concepts like annuities  with payments made at intervals.

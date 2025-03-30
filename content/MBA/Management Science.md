@@ -4,6 +4,7 @@ date:
   - 2024-12-24
 tags:
   - MBA02
+  - MBA
 ---
 ## Linear Programming Problems:
 
@@ -89,7 +90,6 @@ $\Sigma X_{ij}$ =1 where j kept constant and i varied. (Col summation is 1)
 
 
 ---
-
 
 
 

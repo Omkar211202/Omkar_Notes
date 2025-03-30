@@ -3,6 +3,11 @@
 .toc {
   display: flex;
   flex-direction: column;
+  border: 2px solid var(--lightgray);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  flex: 0 1 auto;
+  min-height: 96px;
 
   overflow-y: hidden;
   min-height: 4rem;

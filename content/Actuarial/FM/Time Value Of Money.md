@@ -4,7 +4,7 @@ date:
   - 2024-10-27
 tags:
   - FM
-  - To_Do
+  - Act
 ---
 ## Amount Function:
 ### Interest rate:
@@ -193,12 +193,6 @@ accumulation function = $a(t)=1.(1+it)$
 > Simple interest beats compound interest when the time period is lesser than an 1 year.
 > 
 > For example: 100 at half year period at a annual interest of 10% is 104.88 at compound interest and 105 at simple interest.
-
----
-
-## Variable Force of interest:
-`To Do`
-
 
 
 ---

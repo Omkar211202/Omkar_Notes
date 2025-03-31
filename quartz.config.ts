@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible", // can use google analytics
+      provider: "google",
+      tagId: 'G-5G6JSHVM8L' // can use google analytics
     },
     locale: "en-US",
     baseUrl: "omkar-notes.vercel.app", // your domain

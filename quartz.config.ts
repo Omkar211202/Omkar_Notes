@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible", // can use google analytics
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "omkar-notes.vercel.app", // your domain
     ignorePatterns: ["Private", "templates", ".obsidian"], // see  this
     defaultDateType: "modified",
     theme: {

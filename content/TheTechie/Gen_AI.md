@@ -177,3 +177,31 @@ poetry add langchain
 5. Transform
 6. Filter
 
+
+[https://maximilian-schwarzmueller.com/articles/whats-the-mcp-model-context-protocol-hype-all-about/](https://maximilian-schwarzmueller.com/articles/whats-the-mcp-model-context-protocol-hype-all-about/)
+
+Prompts:
+- system: tool.
+- user
+
+Advantages:
+- Describe the API and use the latest info.
+
+
+
+Disadvantages:
+- Time taking.
+- many tools, the computation will long.
+- the format will change with time.
+
+MODEL CONTEXT PROTOCOL:
+- Standardizes the way in which the server and LLM interact.
+- Describe tools, prompt and assistant in a standard way.
+
+### use case:
+dev
+ingest of data
+user use.
+
+### coleam00 ai agents
+[https://www.youtube.com/watch?v=zaNIvRllycM&list=PLyrg3m7Ei-MpsdEA6eKN1k2gJpuhllNTi](https://www.youtube.com/watch?v=zaNIvRllycM&list=PLyrg3m7Ei-MpsdEA6eKN1k2gJpuhllNTi)

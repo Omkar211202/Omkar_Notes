@@ -129,7 +129,7 @@ names(roulette_vector) <- c("Monday", "Tuesday", "Wednesday", "Thursday", 
 
 
 ### Other Functions in R:
-```R
+```r
 lapply(),sapply(),unlist()
 
 ```
@@ -137,7 +137,7 @@ lapply(),sapply(),unlist()
 
 List is heterogeneous collection of datatypes. It can have strings, numbers, etc.
 
-```R
+```r
 my_list=list(
   string="One Hundred",
   number=5,
@@ -156,7 +156,7 @@ my_list[[3]][3]
 
 ### Loops in R:
 
-```R
+```r
 x=0
 while (x<1000)
 {
@@ -186,9 +186,10 @@ counter=counter+1
 
 ---
 
+
 ### Amortization of Loan:
 
-```R
+```r
 month=0
 balance=300000
 payment=1600
@@ -208,7 +209,7 @@ while(balance>0){
 ---
 
 ### Handling Days in R
-```R
+```r
 today=Sys.Date()
 day=weekdays(today)
 day
@@ -218,7 +219,7 @@ today
 
 ### Matrix:
 
-```R
+```r
 # creating a matrix (data, rows, col)
 x=matrix(1:8,4,2,byrow=TRUE) # puts data in row order, by default it gives column order
 x
@@ -255,7 +256,7 @@ plot(m)
 ```
 
 
-```R
+```r
 # handling missing values
 # summing elements in a vector by removing missing val.
 m=c(1,2,3,NA,4)
@@ -266,7 +267,7 @@ sum(m,na.rm=TRUE)
 
 ### Functions in R
 
-```R
+```r
 cyl_vol=function(radius=1,height)
 {radius^2*pi*height}
 
@@ -284,7 +285,7 @@ roll()
 ```
 
 ### If statements.
-```R
+```r
 x=5
 if (x<10)
 {
@@ -293,7 +294,7 @@ if (x<10)
 ```
 ### Handling datasets
 
-```R
+```r
 # using data sets in R 
 
  # importing a data set present in R.
@@ -329,7 +330,7 @@ starwars%>%
 
 ```
 
-```R
+```r
 x=list(1,"a",TRUE,1+4i)
 x
 
@@ -343,7 +344,7 @@ x
 
 ### Dataframe:
 
-```R
+```r
 avg=c(3.4, 2.8, 4.2, 5.8, 11.4, 12.6, 14.6, 13.9, 13.7, 9.2, 4.3, 3.1, 2.3, 0.5, 0.8, 6.7, 13.5, 13.6, 16.2, 13.8, 11.6, 8.0, 6.6, 3.9, 1.7, 4.6, 4.0, 9.1, 8.8, 13.2, 15.4, 15.8, 11.6, 7.8, 3.6, 4.8)
 
 df= data.frame(Year = rep(2018:2020,each=12),Month=rep(month.name,3),avg)
@@ -360,7 +361,7 @@ df[,"avg"]
 
 ### Data Processing in R:
 
-```R
+```r
 df=data.frame(Products=c("A","B","C","D","E"),
               Price=c(612,447,NA,374,831))
 df
@@ -391,7 +392,7 @@ my_data2
 
 ### Plotting in R:
 
-```R
+```r
 penguins
 lm(penguins$bill_length_mm~species+year+species::year,data=penguins)
 lm

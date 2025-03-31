@@ -9,7 +9,7 @@ tags:
 credit  to Operations and supply chain.
 
 The discussion should open up with this question:
-'Would we need to manage inventory in this fast moving world' as many believe that there is sync between demand and supply.
+'Would we need to manage inventory in this fast moving world' ,as many believe that there is sync between demand and supply.
 
 Two reasons that say no:
 1. Increase in global business partners or supply vendors.

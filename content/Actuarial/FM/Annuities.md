@@ -19,12 +19,12 @@ There are 2 types of annuities;
 
 Annuity Immediate in an annuity payment where the first payment is made at the end of first year.
 
-Present value of annuity immediate: (calculated a year before the first payment)
+Present value of annuity immediate: (calculated a year before the first payment, assuming 1 is payment)
 $$
 a-immediate PV=\dfrac{1-v^n}{i}
 $$
 
-Accumulated / Future value of annuity immediate: (calculated on the last payment year itself)
+Accumulated / Future value of annuity immediate: (calculated on the last payment year itself, assuming 1 is payment)
 $$
 a-immediate FV=\dfrac{(1+i)^n-1}{i}
 $$
@@ -32,12 +32,12 @@ $$
 ## Annuity Due:
 Annuity due is an annuity where the first payment is made at the beginning of the first year.
 
-Present value of annuity due: (calculated on the year of the first payment)
+Present value of annuity due: (calculated on the year of the first payment, assuming 1 is payment)
 $$
 a-due PV=\dfrac{1-v^n}{d}
 $$
 
-Accumulated value / Future value of annuity due: (calculated a year after the last payment)
+Accumulated value / Future value of annuity due: (calculated a year after the last payment, assuming 1 is payment)
 $$
 a-due FV=\dfrac{(1+i)^n-1}{d}
 $$
@@ -83,9 +83,9 @@ $$
 > If Interest changes, compounding period varies, convert to the same terms and solve.
 
 ## Varying Interest:
-If interest changes there are 2 methods that can happen:
+If interest changes there are 2 methods of calculation that can happen:
 1. Portfolio method: Same interest for any payment, during a given period of time.
-2. Yield Curve method: Interest is charged based on the time of deposit.
+2. Yield Curve method: Interest is charged based on the time of initial deposit.
 
 ---
 
@@ -160,7 +160,7 @@ $$
 
 ---
 ## Annuity Tricks:
-1. interest rate period lesser than the payment period, convert int to payment period rate.
+1. interest rate period lesser than the payment period, convert into payment period rate.
 2. if payment more regular than int period, use discounting but in fractions.
 3. Block payments, come from the last period and subtract and add areas as and when required.
 4. Read reverse tricks.

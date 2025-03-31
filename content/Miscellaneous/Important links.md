@@ -18,3 +18,8 @@ tags:
 ## Web Development
 - [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 - [ttps://www.brevo.com/pricing/](https://www.brevo.com/pricing/).
+
+
+## Portfolio links:
+https://github.com/HamishMW/portfolio
+https://portfolio-magicui.vercel.app/

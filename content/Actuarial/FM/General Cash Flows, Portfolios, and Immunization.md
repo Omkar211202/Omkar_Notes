@@ -42,7 +42,7 @@ $\dfrac{\Sigma t.v^t.CF_t}{\Sigma v^t.CF_t}$
 
 MacD= $-\dfrac{P'(\delta)}{P(\delta)}$
 
-Modified Duration:
+### Modified Duration:
 (here we use the annual effective rate for calculating V)
 
 ModD= $\dfrac{\Sigma t.v^{t+1}.CF_t}{\Sigma v^t.CF_t}$

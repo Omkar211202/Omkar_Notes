@@ -26,6 +26,8 @@ Types of scales
 
 ## CRISP DM model:
 
+
+
 ---
 
 ## RStudio 
@@ -291,8 +293,27 @@ if (x<10)
 {
   print(paste(x,"is lesser than 10"))
 }
+
+
 ```
+
+
+
+---
 ### Handling datasets
+
+- First thing to do given a dataset: EDA, exploratory data analysis.
+- This includes:
+```r
+head(df)  # First 6 rows by default
+tail(df)  # last 6 rows by default
+names(df) # column names
+str(df)   # type of data for each of the cols
+dim(df)   # Rows * Cols in the dset
+summary(df) # gives mean,median,mode,Q3,Q1 for numerical cols.
+```
+
+
 
 ```r
 # using data sets in R 
@@ -387,7 +408,18 @@ my_data2
 
 ```
 
+```r
 
+hist(df$colname,col='green')
+boxplot(df)
+
+ggplot(df,aes(x=carat,y=price,colour=clarity))+geom_smooth()
+ggplot(df,aes(x=carat,y=price,colour=cut))+geom_point()+facet_wrap(~clarity)
+
+
+
+
+```
 
 
 ### Plotting in R:
@@ -420,17 +452,66 @@ p_box+p_violin & theme(axis.text.x = element_text(angle=45))
 ---
 
 ## Machine Learning in R:
-### Confusion Matrix
+### Confusion Matrix:
 
-- accuracy: $\dfrac{TP+TN}{Total}$
 
-- Precision: $\dfrac{TP}{TP+FP}$
+|                 | Predicted Positive | Predicted Negative |
+| --------------- | ------------------ | ------------------ |
+| Actual Positive | True Positive (1)  | False Negative (2) |
+| Actual Negative | False Positive (3) | True Negative  (4) |
 
-- Recall: $\dfrac{TP}{TP+FN}$
+
+- accuracy: $\dfrac{TP+TN}{Total}$ , among all the predictions, how many are true. $\dfrac{(1+4)}{(1+2+3+4)}$
+
+- Precision: $\dfrac{TP}{TP+FP}$, , among all the predicted positive, how many are really correct. $\dfrac{(1)}{(1+3)}$
+
+
+- Recall: $\dfrac{TP}{TP+FN}$, among the actually positive, how many are predicted correctly. $\dfrac{(1)}{(1+2)}$
+
 
 - F1-Score: $\dfrac{2.Precision.Recall}{Precision+Recall}$
 
 ---
 
 
+### Linear Regression in R:
 
+```r
+lm(result~var1+var2+var3,data=df) # to find result, using var 1,2,3 from data df
+lm(result~.-var1,data=df) # to find result from all var in df, except var 1
+lm(result~.,data=df) # to find result using all var in df
+
+predict(model) # will give the intercept and coefficient for each of the following.
+
+# Metrics of Evalutaion:
+library(Metrics)
+# Root mean square error
+Root_mean_square_error=rmse(df$result,predict(model))
+# r_squared error
+summary(model)$r.squared
+
+AIC(model)
+BIC(model)
+
+```
+
+
+
+```r
+set.seed(123)
+trainindex = createDataPartition(diabetes_confusion$Outcome,p=0.7,list=FALSE)
+traindata = diabetes_confusion[trainindex,]
+testdata = diabetes_confusion[-trainindex,]
+logic_reg = glm(Outcome~Age+BMI+BloodPressure+Glucose,
+                family = binomial(link = "logit"),data=traindata)
+logic_reg
+
+predicted_prob = predict(logic_reg,newdata = testdata,type = "response")
+predicted_prob
+
+predicted_class = ifelse(predicted_prob>0.5,1,0)
+predicted_class
+conf_matrix = confusionMatrix(as.factor(predicted_class),
+                              as.factor(testdata$Outcome))
+conf_matrix
+```

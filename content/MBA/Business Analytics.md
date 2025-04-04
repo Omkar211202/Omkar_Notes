@@ -515,3 +515,4 @@ conf_matrix = confusionMatrix(as.factor(predicted_class),
                               as.factor(testdata$Outcome))
 conf_matrix
 ```
+

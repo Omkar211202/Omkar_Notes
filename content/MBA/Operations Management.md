@@ -172,10 +172,209 @@ customer requirements, convenience of operator, tradeoff bw function and form, t
 - process strategy: approach for process selection for the purpose  of transforming resource into goods and services (outputs).
 - aspects: make or buy, capital intensity, process flexibility.
 
-2. Flow Design 
-3. Process Analysis 
-4. Process Strategy : make or buy, capital, process flexibility. strategies: process focus, repetitive focus and product focus.
-5. Process Selection: process choice, vertical integration, resource flexibility, customer involvement, capital intensity.
+1. Flow Design 
+2. Process Analysis 
+3. Process Strategy : make or buy, capital, process flexibility. strategies: process focus, repetitive focus and product focus.
+4. Process Selection: process choice, vertical integration, resource flexibility, customer involvement, capital intensity.
 - types: process focus, repetitive, product focus.
 - Job shop, Batch, repetitive process, continuous process, project process
-6. Challenges
+2. Challenges
+
+---
+
+## Capacity Planning:
+
+- availability of resource in hand or the max output of products and services, one can achieve by using these resources.
+- capacity management is a systematic process of a. estimating the capacity required, alternative methods of augmenting capacity and devising methods to use the capacity effectively.
+- Planning: huge fixed cost, limits the capability for production, should be related to the intensiveness, how a facility is used. sub-contracting can boost capacity limit.
+- Measures: if product is homogenous, capacity units are obvious.(Beer: crates, Water: bottles) When diverse, they can limited resource as a capacity measure.(Airlines: Available seat Miles).
+
+- $Capacity Utilisation Rate=\dfrac{Capacity-used}{best-operating-design}$
+-  steps of capacity planning: Predict demand, convert it into required capacity requirements, alternate capacity plans, economic effects of alternate plans, risk and strategic effects, Implementation.
+- Economies of scale:
+- Capacity strategy: how it approaches its capital intensive resources, will help it to handle change in customer demand.
+- decisions: interface marketing in terms of product strategies and production, engineering: product and process innovation, utilization of fixed resources: Debt equity instruments, and be product focused or process focused
+- long-term cap planning: deals with new facilities and equipment's with a time period, more than two years. (Strategic planning)
+- short term capacity: inventory, work-force and overtime budgets.
+- understatement can lead to limited growth and loss of customers and overstatement can lead to higher costs and lesser profits.
+
+![[{A8F662FF-4A15-49F7-BD9D-B12EEFFD1E6F}.png]]
+
+- decisions: existing capacity to long term requirements, alternate sources, long term planning is based on stable metrics like population increase, urbanization and industrialization, generally incremental increases in capacity rather than large ones, rely on probability methods, economic analysis of alternatives.
+
+- Handling capacity requirements:
+- Case 1: Present capacity is not sufficient: sub contracting, acquire other facilities, build new plants, expand, modernize or modify existing facilities, reactivating facilities which are on stand-by status.
+
+- Excess Capacity: sell off existing facilities, sell inventory, place facilities in stand-by mode, phasing in new products, outsource surplus capacity available.(opposite of case1)
+
+Alternate plans:
+- vertical integration, relocation of new plants, effects of capacity  on products and process.
+
+Economies of scale: reduction in average cost of a product due to increase in output itself.
+- due to : fixed cost spread over, discounts on material, operating cost do not increase linearly, efficiency in larger scale of production.
+- diseconomies: increase in avg cost post a certain threshold: due to: excessive use of machinery, congestion of machinery, slower service times, poor quality, increased use of overtime and the corresponding increase in labor costs, difficulty in coordination and management activities.
+
+MRP: Manufacturing Resource Planning:
+- divide and assign specific and detailed tasks that people evaluate, agree upon and are accountable for. 
+
+Line balancing:
+arrangement of production line so that there is even flow of production from one work station to another work station, arranged in sequential design to gain high utilization of labor and equipment and minimizing idle time.
+- identify tasks, precedence diagram, estimate the task time, estimate cycle time, assign work to each of the worker.
+
+---
+## Materials Management:
+- supply chain management: coordinated network of value delivering business process that starts with procuring raw materials, converting them into final products and delivering them to the customers. (procurement, manufacturing, inbound logistics, warehousing, distribution, outbound logistics)
+- Bull Whip effect: orders to suppliers have a larger variability than sales to buyers, which results in an amplified demand variability upstream.
+- strategic decisions: core competencies (In house).
+- favor Making (in house): cost considerations, desire to integrate plant ops, use of excessive plant capacity to better use the fixed spread, exert direct control over production and /or quality, design secrecy, unreliable suppliers, maintain stable workforce.
+- favors buying (outsourcing):
+- Procurement objectives: more comprehensive than purchasing, includes supply chain aspects, manage the process and supply base efficiently and effectively.
+
+![[Pasted image 20250404075501.png]]
+
+
+reasons for supplier selection:
+- during new product dev
+- poor existing supplier
+- end of contract
+- new equipment
+- expand to new markets
+- internal user requisitions.
+
+strategy:
+- single vs multiple sources
+- short-term vs long-term contracts
+- design support vs operational support
+- full service vs non full service
+- domestic vs foreign based suppliers
+- collaboration vs arm's length relationship
+
+criteria: price, quality and delivery, management capability, employee capability, cost structure, total quality performance, systems and philosophy, process and technological capability, environ comp, financial stability, scheduling and control systems, e-commerce capability, sourcing strategies and techniques, longer relationship
+
+- supplier evaluation categories, assign weights, score, direct evaluation, review results.
+
+Warehousing:
+- transportation at zero miles per hour.
+- time and place utility for raw materials, industrial goods and finished products, by improving customer satisfaction.
+- functions of warehouse: transportation consolidation, product mixing, docking service, protection against contingencies.
+- objectives: timely customer service, track items to  be found easily, min total physical effort and communication links to customers.
+- activities: receive, identify, dispatch, hold, pick goods.
+
+Location: 
+fixed location:
+floating location:
+
+Benefits: place to store and protect, no transportation levels, customer service levels.
+
+why Inventory:
+- transaction measure
+- precautionary measure
+- speculative measure.
+
+## Facility Planning:
+- location theories involve in selecting optimal location of facilities to minimize costs, max customer satisfaction, or achieve other objectives. used in operations research, logistics and supply chain.
+
+- Weberian Theory: minimize transportation and production costs.  proximity to raw materials, proximity to markets, labor costs.
+- Centre of gravity method: minimize the total distance between factory to suppliers and customers. (used in warehouse location), demand points and distance.
+- location-allocation models: allocate maximum demand points to a center. maximal covering location problem, set covering problem.
+- dynamic facility location models: considers factors of time variability or expansion. relocation or expansion
+- stochastic facility location models: work with uncertainty, factors of transportation cost, facility capabilities are not fixed and are deterministic.
+
+
+- Facility location: 
+1. Proximity to markets: Customer demand, market size and growth.
+2. Proximity to suppliers and raw materials: supply chain availability, reliability and availability.
+3. Labor availability and costs: skilled labor and labor costs.
+4. transportation infra: accessibility, cost and availability of shipping, public transportation.
+5. utilities and energy supply: cost and availability of utilities, energy efficiency.
+6. tax incentives and govt. policies: govt subsidies and incentives, regulations and tax, political stability.
+7. real estate and land availability: cost of land or lease, expansion opportunities.
+8. environmental considerations: environmental regulations, climate, sustainability initiatives.
+9. quality of life: employee well being, work life balance.
+10. competition and industry clusters: proximity to competitors, industry clusters.
+11. security and risk factors: crime and safety and risk of natural disasters.
+12. access to technology and innovation: technology infrastructure and innovation ecosystem.
+13. cultural and social factors: cultural fit, social acceptance.
+
+- Facility layout objectives:
+1. maximizing efficiency and productivity: unnecessary movements avoid. 
+2. minimizing transportation costs: distance materials, components and workers.
+3. optimizing space allocation: use space effectively, giving space for mobility and flexibility.
+4. enhancing flexibility: layout to be flexible and adaptable to future changes in product lines, production volumes or process.
+5. ensure safety and ergonomics: safety, no risk and fatigue.
+6. improve product quality: ensure minimal errors, contamination and improving process control.
+7. reducing lead times. less time for movement from one place to another.
+8. facilitate communication and coordination. layout to foster better communication and coordination between workers, depts and management.
+9. supporting automation. automation and machinery must work together.
+10. improve employee satisfaction and motivation
+11. compliance with regulations
+12. minimize inventory and work in progress
+
+types of facility layouts:
+- process layout:
+- product layout:
+- cellular layout:
+- fixed position layout:
+- combination layout:
+
+steps in facility planning:
+- identify objectives:
+- gather data:
+- choose the type of layout
+- design the layout
+- evaluate and optimize
+- implement and monitor
+
+other factors:
+- product/service characteristics
+- production volume and variety:
+- flow of materials and people:
+- space requirements:
+- safety and ergonomics:
+- material handling systems:
+- technology and automation:
+- workforce considerations:
+- environmental and regulatory compliance:
+
+
+
+
+## Trends in operations management:
+
+- Automation and AI integration: RPA and AI
+- digital transformation:
+- sustainability and green ops:
+- agility and flexibility
+- data-driven decision making:
+- supply chain resilience:
+- customizable and personalized products:
+- ecommerce and omni-channel operations:
+- workforce management and automation:
+- risk management and crisis management
+- customer centric
+- smart manufacturing
+- talent dev and training
+
+Lean operations:
+- value stream mapping:
+- waste  reduction: over production, unnecessary movements, waiting, extra processing, inventory, motion, defects.
+- Continuous improvements (Kaizen)
+- Just-in-time:
+- pull system:
+- standardized work
+- empowered workforce:
+- error proofing
+- flow
+- Heijunka (level production)
+- total productive maintenance
+
+Sustainability:
+- focus on meeting today's needs without compromising the needs of the future generation.
+- environment: energy, waste reduction, sustainable sourcing, carbon footprint reduction, circular economy.
+- social: fair labor practices, community engagement, human rights, health and safety.
+- economic sustainability: profit, innovation and efficiency, supply chains, resource efficiency
+- supply chain: 
+- green manufacturing, CSR, energy transition and renewable energy, sustainable product design and life cycle assessment (LSA), carbon offsetting and neutrality, circular economy, water and resource conservation, reporting and transparency.
+- Benefits of sustainability: cost savings, brand loyalty and consumer preference, risk management, attracting investors, employee engagement and retention, innovation and competitive advantage.
+- challenges to sustainability:  cost of transitions, regulatory complexity, supply chain complexity, consumer awareness.
+

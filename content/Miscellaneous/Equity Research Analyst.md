@@ -5,7 +5,7 @@ tags:
 date:
   - 2025-03-05
 ---
-## CHAPTER 1: INTRODUCTION TO RESEARCH ANALYST PROFESSION
+## Introduction to Equity Research Profession:
 
 1.1
 - Information to Know: Govt Stats. and data by RBI, Global trends, industry specific journals, company specific data (AR), meetings and data about plants, market surveys, employee interviews.
@@ -48,7 +48,7 @@ Skills:
 
 ---
 
-## CHAPTER 2: INTRODUCTION TO SECURITIES MARKET
+## Introduction to Securities Market
 
 - What's a security ?
 Securities are evidence that show evidence of indebtedness or ownership of assets in an incorporated entity.
@@ -173,19 +173,19 @@ Terms:
 - Principal: amount of money given to issuer, if less than face value: discount bond, more than face value: premium bond, else par value bond.
 - Redemption: contract is done on the redemption day, the issuer pays the entire principal on this day, with the final coupon payment.
 - Holding Period returns: return earned from the day of investment to the time it was held by the investor. (not an annual rate but a periodic rate).
-- Current Yield rate:
-- Yield to Maturity (YTM):
-- Duration:
+- Current Yield rate: taken as coupon rate.
+- Yield to Maturity (YTM): more widely used metric
+- Duration: sensitivity of bond's price with changes in interest rates.
 
 - Types of Bonds:
-1. Zero-Cuopon Bonds:
-2. Floating - Rate Bonds:
-3. Convertible Bonds:
-4. Principal - Protected Note (PPN):
-5. inflation - protected securities:
-6. Foreign currency bonds:
+1. Zero-Coupon Bonds: no intermediate coupons, only coupons at the  end of the maturity  period.
+2. Floating - Rate Bonds: no fixed coupon rates, vanilla bonds, 
+3. Convertible Bonds:  can be converted into equity on or before a specific date, ratio of conversion, price, proportion of debenture to be converted.
+4. Principal - Protected Note (PPN): a part of investment is put into debt, and the remaining is invested in riskier classes.
+5. inflation - protected securities: coupon rate is fixed but the principal is adjusted to inflation on a regular basis.
+6. Foreign currency bonds: lower interest leads to foreign bonds.
 7. External bonds:
-8. perpetual bonds;
+8. perpetual bonds: no fixed maturity date.
 
 
 ## Fundamentals of Research:

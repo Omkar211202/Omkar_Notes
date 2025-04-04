@@ -182,3 +182,5 @@ $Profit$
 = margin of safety * Pv ratio.
 
 ---
+
+

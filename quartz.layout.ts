@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/omkar211202",
       LinkedIn: "https://www.linkedin.com/in/omkarkathi",
+      Portfolio:"https://omkar-kathi.vercel.app"
     },
   }),
 }

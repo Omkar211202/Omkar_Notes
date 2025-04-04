@@ -72,27 +72,6 @@ poetry add langchain
 ```
 
 ---
-##  Function Calling:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 ## Step 1:
 
 ### Deciding Topics for which model has to be made:
@@ -169,7 +148,7 @@ poetry add langchain
 
 
 
-### Data handling:
+## Data handling:
 1. Create
 2. Read
 3. Update

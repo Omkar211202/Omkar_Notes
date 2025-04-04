@@ -226,7 +226,7 @@ Methods:
 - graphic rating scale: lists a number of traits and a range of performance for each that is used to identify the score that describes an employee.
 - alternation ranking: for each trait, a best to worst list is made.
 - paired comparison: compare every employee with other employee (matrix)
-- forced distribution: normal distribution and place them them on the bell curve.
+- forced distribution: normal distribution and place them on the bell curve.
 - critical incident: log positive and negative incidents and discuss with employee.
 - narrative forms: write a recommendation sort of description with proof as validity.
 - BARS: behavior anchored rating system.(specific examples anchored to scores).
@@ -242,3 +242,62 @@ halo effect
 central tendency
 strictness/leniency
 bias
+
+## Training and Developing Employees:
+1. Orientation: feel at ease, understand org, what is expected at work , behavior, socialization.
+2. employee benefit info, personnel policies, daily routine, organizations and operations, safety measures and regulations, facilities tour.
+3. Training is the process of teaching new employees the basic skills they need to perform their jobs.
+4. development: learning opportunities designed to help employees grow.
+
+| Trainer                 | Mentor                   | Coach                                           |
+| ----------------------- | ------------------------ | ----------------------------------------------- |
+| asks directive question | answers direct questions | asks open questions.                            |
+| seeks specific answers  | information sources      | enables self discovery                          |
+| highly structured       | seeks alt answers        | dispels false feelings & beliefs.               |
+| based on past learining | based on past experience | can be applied to any situation future focused. |
+
+4-step process of training: need analysis, program design, implementation and evaluation.
+- analysis Training needs: task analysis: new employees' need, performance analysis: assess current employees' training needs.
+- can be done via: specialized software, diaries, attitude surveys, tests, interviews, observations, job-related performance data.
+- 70:20:10: structured learning, learning from others and on-the job training.
+- OJT: 
+- off the job: case study, management games, outside seminars, corporate universities, in-house dev centers, executive coaches, in-house dev centers, executive coaches.
+- Training process: org analysis, task analysis, person analysis.
+- Design: instructional objectives/strategy and trainee readiness, learning principle.
+- implementation: material and equipment, trainee's manual, trainer's manual, facilities, trainer.
+- Training evaluation: reactive, learning, behavior, results.
+- Philips model: includes ROI approach.
+
+management Development:
+- attempt to improve current or future management performance by imparting knowledge, changing attitudes or increasing skills..
+- succession planning: anticipate management needs, review firm's management skills inventory, create replacement charts, begin management development.
+
+## Compensation Management:
+- why?: attracts talent, motivates employees, rewards performance, reduces turnover, manages compensation budget.
+- renumeration to an employee for his or her contribution to the organization. effects his standard of living, status in society, motivation, loyalty and productivity.
+- effects cost of production
+- fix wages and wage differentials
+- dampens morale and teamwork and causes turnover.
+- equity, transparency, and consistency.
+- Reinforcement theory:
+- Expectancy theory: increased effort will lead to increased performance, the outcome will be better.
+- instrumentality: performance well, means the valued outcome will be received.
+- valence: importance that the individual places upon the expected outcome.
+- Equity Theory:
+- agency theory:
+- DA:
+- Fringe benefits:
+- pre-requisites:
+- non-monetary benefits
+- incentives:
+- claims:
+- gratuity
+
+## HR Challenges:
+- legal and compliance
+- culture
+- language
+- labor
+- HR systems and risk
+- employee mobility
+- communication

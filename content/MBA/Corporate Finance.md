@@ -104,3 +104,11 @@ Unit linked insurance
 - higher Beta, higher leverage.
 
 ---
+
+
+| Bonus Share             | Stock Split          | Buy-Back             |
+| ----------------------- | -------------------- | -------------------- |
+| No change in face value | change in face value | No change in value   |
+| EPS will decrease.      | EPS will decrease    | EPS will increase    |
+| More ownership (Reward) | Make it more liquid  | To signal confidence |
+|                         |                      | Accrition            |

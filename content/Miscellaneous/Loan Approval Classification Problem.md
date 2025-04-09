@@ -247,11 +247,15 @@ confusionmatrix
 ```
 
 - Important Variables for due_diligence:
+
 ![[Pasted image 20250408135236.png]]
+
 - Rpart_Plot Chart:
+
 ![[Pasted image 20250408133515.png]]
 
 - Confusion Matrix
+
 ```sql
         Reference (Actual values)
 Prediction       Approved   Rejected

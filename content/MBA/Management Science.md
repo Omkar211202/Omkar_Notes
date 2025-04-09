@@ -6,6 +6,9 @@ tags:
   - MBA02
   - MBA
 ---
+## Topics Covered:
+- LPP, Transportation, Assignment, CPM, PERT, Game Theory.
+
 ## Linear Programming Problems:
 
 - Linear programming is done to find an optimal solution by maximizing or minimizing the objective function (generally profit or cost).

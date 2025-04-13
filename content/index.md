@@ -4,7 +4,8 @@ date:
   - 2024-10-27
 ---
 
-![[og-image.png]]
+![[intro.gif]]
+
 ## What's BlackBox ?
 
 Black Box is a note-management system built to make systematic, eternal and accessible notes.

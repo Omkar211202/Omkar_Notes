@@ -12,7 +12,7 @@ Most important site is the formula sheet:
 This exam consists of very less portions, but will be a time fight to answer all questions.
 
 The toughness of this exam will be:
-- Using the TVM, with dexterity, mastery and speed.
+- Using the TVM calculator, with dexterity, mastery and speed.
 - Doing a sum at a pace of 4 mins.
 
 Easy things about the exam:

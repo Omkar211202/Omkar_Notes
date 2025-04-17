@@ -131,7 +131,8 @@ HPWS: high performance work system:
 - foster skilled workforces and expanded opportunities to use those skills.
 
 HR Scorecard:
-- measures the efficiency and effectiveness in producing employees behaviors needed to achieve strategic goals. derived from the core strategy, linking works, behaviors, organizational outcomes and the performance.
+- measures the efficiency and effectiveness in producing employees behaviors needed to achieve strategic goals.
+- derived from the core strategy, linking works, behaviors, organizational outcomes and the performance.
 - metrics to measure all the activities and results involved.
 
 To implement a strategy, the workforce must have: (SLTCR)
@@ -187,6 +188,7 @@ Job description: (Obtained from Job analysis)
 Job specifications:
 - List of a job's human requirements, like education, skills, personality and so on.
 
+---
 ## Personnel Planning and Recruiting:
 
 
@@ -305,8 +307,13 @@ Executive Recruitment;
 - Administration: unstructured sequential, Structured sequential, Panel, One-to-one, phone, computerized, video, web-assisted.
 
 - Tips to see: structure the interview, look for selected traits, beware of committing interview errors
+
+---
 ## Competency mapping, assessment and appraisal:
-- an underlying characteristic (skills, knowledge and attitude) of a person that enables him/her to deliver a superior performance in a given job, role or a situation.
+
+> [!IMPORTANT] Definition of Competency:
+> An underlying characteristic of a person that enables him to deliver superior performance in a given job, role or a situation.
+
 - skills (ability to do): Physical,
 - knowledge(information): cognitive,
 - attitude(qualitative aspects).
@@ -337,12 +344,26 @@ Knowledge: through tests.
 skills: work samples.
 Personal qualities: simulation interviews.
 
-## Performance Management & appraisal:
-Performance appraisal: 
-setting work standards, assessing performance, providing feedback to employees to motivate, correct, continue and improve their performance.
+---
 
-performance management:
-integrated approach to ensure that an employee's performance supports and contributes to the organizations strategic aims.
+## Performance Management & appraisal:
+
+> [!IMPORTANT] Definition of Performance Appraisal
+> setting work standards to assess performance and provide feedback to employees to motivate, correct, continue and improve their performance.
+
+
+> [!IMPORTANT] Definition of Performance Management
+> an integrated approach to ensure that employees performance standards support and contribute to organizations strategic aims.
+
+
+Why appraisal?
+- Pay compensation and promotion.
+- integral role in performance management,
+- correcting deficiencies and reinforcing good pracs.
+- career planning
+
+HR is an advisory, teaching techniques or software, training supervisors on performance management and making it compliant to EEO laws.
+
 
 Methods:
 - graphic rating scale: lists a number of traits and a range of performance for each that is used to identify the score that describes an employee.
@@ -365,6 +386,7 @@ central tendency
 strictness/leniency
 bias
 
+---
 ## Training and Developing Employees:
 
 1. Orientation: feel at ease, understand org, what is expected at work , behavior, socialization.
@@ -395,27 +417,29 @@ management Development:
 - attempt to improve current or future management performance by imparting knowledge, changing attitudes or increasing skills..
 - succession planning: anticipate management needs, review firm's management skills inventory, create replacement charts, begin management development.
 
+---
 ## Compensation Management:
 - why?: attracts talent, motivates employees, rewards performance, reduces turnover, manages compensation budget.
 - renumeration to an employee for his or her contribution to the organization. effects his standard of living, status in society, motivation, loyalty and productivity.
 - effects cost of production
 - fix wages and wage differentials
-- dampens morale and teamwork and causes turnover.
-- equity, transparency, and consistency.
-- Reinforcement theory:
+- Pay envy: dampens morale and teamwork and causes turnover.
+- Compensation Philosophy: equity, transparency, and consistency.
+- Reinforcement theory: behavior that is rewarded will be repeated.
 - Expectancy theory: increased effort will lead to increased performance, the outcome will be better.
 - instrumentality: performance well, means the valued outcome will be received.
 - valence: importance that the individual places upon the expected outcome.
 - Equity Theory:
 - agency theory:
-- DA:
-- Fringe benefits:
-- pre-requisites:
-- non-monetary benefits
-- incentives:
-- claims:
+- DA: allowance that adjust for inflation.
+- Fringe benefits: provident fund, gratuity, insurance, health bills etc.
+- pre-requisites: company car, club membership, paid hols, furnished houses, stock option schemes.
+- non-monetary benefits: recognition of merit, growth, supervision, job sharing, flex time.
+- incentives: HRA, conveyance and leaves
+- claims: telephone, internet, medical.
 - gratuity
 
+---
 ## HR Challenges:
 - legal and compliance
 - culture
@@ -425,5 +449,4 @@ management Development:
 - employee mobility
 - communication
 
-
-
+---

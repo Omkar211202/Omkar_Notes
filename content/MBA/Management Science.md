@@ -24,6 +24,10 @@ Sensitivity Analysis:
 - Shadow pricing is binding if and only if the constraint is fully utilized.
 - Increasing non binding constraints will not lead to any increase  in objective function given the existence of slack variables present.
 
+Refer Excel:
+
+![[LPP_Variety_of_sums.xlsx]]
+
 ---
 
 ## Transportation Problems:
@@ -40,6 +44,8 @@ The aim of the whole problem is to find the qty of materials to be transported f
 
 - A Dummy Variable may be required if Demand is more than demand. 
 - Remember to keep the coefficients of dummy variable to be the highest, given our task is to minimize the cost.
+
+Refer to  LPP excel.
 
 ---
 

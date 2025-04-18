@@ -111,7 +111,7 @@ ggplot(data = education1, mapping = aes(x = "", y = count, fill = education))+
 ```
 
 
-![[Pasted image 20250407204624.png]]
+![[Cp.png]]
 
 - seeing how education effects the status of approval or not:
 ```r
@@ -126,7 +126,7 @@ data%>%
 
 ```
 
-![[Pasted image 20250407204851.png]]
+![[cp2.png]]
 
 - Similar chart seeing the relationship between character variables and the target can be drawn from the data [^1]
 
@@ -137,7 +137,7 @@ ggplot(data,mapping=aes(x=loan_status,y=cibil_score))+
   geom_boxplot()+labs(title="Credit score distribution between loan status")
 ```
 
-![[Pasted image 20250407205431.png]]
+![[BB6.png]]
 
 - A similar Analysis can be seen with other integer variables and how they effect.[^2]
 
@@ -158,7 +158,7 @@ ggplot(data=melted_loan,aes(Var1,Var2,fill=value))+
 
 ```
 
-![[Pasted image 20250407211054.png]]
+![[heatmap.png]]
 
 #### Observation from the Correlation heatmap:
 - Positive Relationships(strong)
@@ -248,11 +248,11 @@ confusionmatrix
 
 - Important Variables for due_diligence:
 
-![[Pasted image 20250408135236.png]]
+![[Var_Imp.png]]
 
 - Rpart_Plot Chart:
 
-![[Pasted image 20250408133515.png]]
+![[rpart-plot.png]]
 
 - Confusion Matrix
 
@@ -286,23 +286,23 @@ Rejected              4        303
 ### References:
 
 [^1]: 
-![[Pasted image 20250407205930.png]]
+![[BB7.png]]
 
 
 [^2]: 
-![[Pasted image 20250407210450.png]]
+![[BB9.png]]
 
-![[Pasted image 20250407210536.png]]
+![[BB10.png]]
 
-![[Pasted image 20250407210647.png]]
+![[BB11.png]]
 
-![[Pasted image 20250407210713.png]]
+![[BB5.png]]
 
-![[Pasted image 20250407210746.png]]
+![[BB4.png]]
 
-![[Pasted image 20250407210807.png]]
+![[BB3.png]]
 
-![[Pasted image 20250407210822.png]]
+![[BB2.png]]
 
-![[Pasted image 20250407210839.png]]
+![[BB1.png]]
 

@@ -26,7 +26,7 @@ Types of inventory  models:
 
 3.  Fixed time period model.
 
-![[Pasted image 20250327115943.png]]
+![[Types-of_inv_planning.png]]
 
 Costs:
 1. Holding/carrying costs;

@@ -264,7 +264,7 @@ Metrics of Recruitment effectives:
 Recruitment Funnel:
 - Awareness, Attraction, interest, applying, evaluating, interviewing, hiring.
 
-![[Pasted image 20250416212703.png]]
+![[Recruitment funnel.png]]
 
 - Internal sources of candidates:
 
@@ -296,7 +296,7 @@ Executive Recruitment;
 - Headhunters.
 
 
-![[Pasted image 20250416220004.png]]
+![[Skill and levels.png]]
 
 ---
 ## Interviewing candidates:

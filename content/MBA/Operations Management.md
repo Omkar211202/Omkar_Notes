@@ -74,7 +74,7 @@ Operations management functions:
 
 Fish bone diagram:
 
-[[Drawing 2025-03-10 22.40.33.excalidraw]]
+[[Fish_diag.excalidraw]]
 
 
 > [!note] Definition Quality
@@ -121,7 +121,7 @@ Quality function deployment (QFD): (Yoji Akao, 1960's, KOBE shipyards)
 
 - MRP: material requirements plan: tool for performing detailed material planning for manufacturing of component parts and their assembly into finished products.
 
-![[Pasted image 20250311090611.png]]
+![[MRP_process.png]]
 
 Master Production scheduling:
 - production plan links the business plan and master production schedule.
@@ -198,7 +198,7 @@ customer requirements, convenience of operator, tradeoff bw function and form, t
 - short term capacity: inventory, work-force and overtime budgets.
 - understatement can lead to limited growth and loss of customers and overstatement can lead to higher costs and lesser profits.
 
-![[{A8F662FF-4A15-49F7-BD9D-B12EEFFD1E6F}.png]]
+![[Time_Planning.png]]
 
 - decisions: existing capacity to long term requirements, alternate sources, long term planning is based on stable metrics like population increase, urbanization and industrialization, generally incremental increases in capacity rather than large ones, rely on probability methods, economic analysis of alternatives.
 
@@ -230,7 +230,7 @@ arrangement of production line so that there is even flow of production from one
 - favors buying (outsourcing):
 - Procurement objectives: more comprehensive than purchasing, includes supply chain aspects, manage the process and supply base efficiently and effectively.
 
-![[Pasted image 20250404075501.png]]
+![[Process.png]]
 
 
 reasons for supplier selection:

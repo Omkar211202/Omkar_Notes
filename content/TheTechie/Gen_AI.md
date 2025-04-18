@@ -14,7 +14,7 @@ They can be built on the local system using `Ollama` server, in which different 
 
 The following is the architecture used in building LLM's:
 
-[[Drawing 2025-02-04 15.17.29.excalidraw]]
+[[AI_Process_design.excalidraw]]
 
 The below are few characteristics of LLM's:
 

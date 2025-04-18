@@ -34,7 +34,7 @@ Finance decision:
 - How much to retain
 - Form of repayment. (Buyback or dividends)
 
-[[Drawing .excalidraw]]
+[[CF_BASE .excalidraw]]
 
 Difference bw equity and Debt:
 - fixed nature.
@@ -47,7 +47,7 @@ Single point agenda: Maximize shareholder wealth.
 
 Things a manager will have to look out for thinking about while maximizing shareholder wealth.
 
-[[Drawing _0.excalidraw]]
+[[agency.excalidraw]]
 
 
 ---

@@ -175,7 +175,7 @@ process, people, programs and performance
 
 ###  How Tech, globalization and responsibility shifted marketing:
 
-![[Pasted image 20241111115837.png]]
+![[Marketing Reality.png]]
 
 ### Marketing Environment:
 - Actors and forces affect the company.
@@ -228,7 +228,7 @@ Plans:
 - Tactical Plan:  treat a business as a strategic business unit, altering 4 P's: Price, product, promotion and place.
 
 
-[[Drawing6.excalidraw]]
+[[Marketing_strategy.excalidraw]]
 
 
 ---
@@ -239,7 +239,7 @@ Plans:
 
 ### Black Box Model
 
-[[Drawing7.excalidraw]]
+[[BB_Model.excalidraw]]
 
 
 ---
@@ -279,7 +279,7 @@ Market segmentation:
 ---
 ## Pricing:
 
-[[Drawing8.excalidraw]]
+[[Pricing_strategy.excalidraw]]
 
 ### Pricing Strategies:
 - high low.

@@ -33,14 +33,14 @@ Here are two examples of Automobile companies based out of India,
 
 - ranked by Sustainalytics:
 
-![[Pasted image 20241229205104.png]]
+![[MSIL.png]]
 ![[Pasted image 20241229205158.png]]
 
 
 - by S&P Global:
-![[Pasted image 20241229205854.png]]
+![[MSIL2.png]]
 
-![[Pasted image 20241229205742.png]]
+![[M&M.png]]
 
 ### Refinitiv:
 - Another ESG scoring agency based out of LSE. 
@@ -50,7 +50,7 @@ Here are two examples of Automobile companies based out of India,
 
 [Environmental, Social and Governance (ESG) Scores from Refinitiv](https://blogs.cranfield.ac.uk/wp-content/uploads/2021/05/refinitiv-esg-scores-methodology-May22-1.pdf)
 
-![[Pasted image 20241229211611.png]]
+![[ESG_Method.png]]
 (form a report by Refinitiv)
 
 ---

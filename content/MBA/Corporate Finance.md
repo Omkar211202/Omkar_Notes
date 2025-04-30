@@ -5,14 +5,15 @@ date:
 tags:
   - MBA02
   - MBA
+  - Completed
 ---
-This notes developed from Class Discussions and additional inputs from Prasanna Chandra
-## Introduction:
 
-No matter what business, an individual want to start:
-- he has to make decisions regarding investments, finance and returns.
+This whole notes is prepared based on class discussions and Prasanna Chandra's Corporate finance textbook. Looking out for corrections and open discussions on the aspects detailed below.
+## Introduction to Corporate Finance:
 
-Types of Business: Sole Proprietorship, Partnership, LLP, Co-operative society, Company.
+Every Organization must make decisions about finance. What are the foundations on which these decisions have to be made ? Which all aspects of decision making exist broadly are to be considered ? how are financial plans drawn? How to optimize the source of financing to take advantage? Does the structure finance even matter to the organization? Should a company pay out dividends on annual basis? Lots o questions... To begin with...Right ?
+
+Lets acknowledge the theories of finance, that led to formulation of the subject of corporate finance.
 
 Theories in Corporate Finance:
 - Efficient market theory: prices change in markets over time.
@@ -21,22 +22,24 @@ Theories in Corporate Finance:
 - Options pricing theory: prices of contingent  claims such as call options.
 - Agency Theory: analysis of incentive conflicts in contractual relations.
 
-Risk Return Tradeoff:
+What is objective of financial decision process?
+- The initial approach of financial decision process was profit maximization, but this is so short term right. The reason for this is because profit's are inconsistent, can be manipulated, can due to credit, and not cash.
+- Profit is very short term and myopic, it does not give insights about the future earnings of the firm.
+- leaves considerations of future earnings uncertain.
 
-- Higher Risk, Higher the return.
+- Thus, they may be meaningless for the long term perpetual existence of the business, but none the less, a company must profitable to get good valuations, but that's never enough.
+- So the best way to look at financial decision process is shareholder wealth maximization, this includes both dividend payout and capital appreciation. This encompasses both profit making for the short term, but also forces the organization to look long-term for growth opportunities and plan strategically.
+
 
 [[Valuation_1.excalidraw]]
 
 Agency Problem:
-
 - Its not possible for all the owners of a company to make decisions in the company, but they will hire professional, who have no or little  stake in the company to do all activities.
 - Its not possible for large number of owners to take decisions.
 - change in ownership with no change in operations.
 
 Agency Costs:
-
 Professionals are hired in company to maximize the value of shareholder wealth in theory. Thus, they enjoy substantial autonomy and pursue their own goals.
-
 The cost difference between current market cap and the cap if both management and shareholder interests are perfectly aligned.
 
 Business Ethics and Social Responsibility;
@@ -46,15 +49,9 @@ Business Ethics and Social Responsibility;
 - Social Responsibility: Created Share Value.
 - Shared Value = Social Value +Economic Value
 
-Finance Dept.
+Structure of the Finance Dept.
 
 [[Finance_Struc_org.excalidraw]]
-
-### Why is Wealth Maximization over Profit?
-
-- Profit is very short term and myopic, it does not give insights about the future earnings of the firm.
-- leaves considerations of future earnings uncertain.
-- uncertainty is expressed in terms of probability function.
 
 
 > [!QUESTION] 
@@ -78,8 +75,8 @@ Structure of Corporate Finance:
 - working cap: short money requirements that are required for daily requirements.
 
 
-Finance decision:
-1. Sources:
+### Finance decision:
+1. Sources: (Primary Markets)
 - Cost of capital.
 
  2. Composition of Capital;
@@ -238,9 +235,9 @@ Investment Criteria:
 - For NPV, discount the values of future cashflows, and get it to a present value.
 - Benefit-Cost Ratio: BCR = $\dfrac {PVB}{I}$, positive cashflow per unit on outlay
 - Net benefit-cost ratio: $BCR-1$
-- IRR:
-- MIRR:
-- ARR:
+- IRR: The rate at which the present value of future inflows and current outlay will be equal to zero.
+- MIRR: Multiple IRR, if the future inflows are reinvested to the last inflow time, this would the net annual effective rate of return.
+- ARR: Accounting rate of return, typically ROI or ROE.
 
 Project Decisions:
 - Time horizon for analysis.
@@ -262,26 +259,176 @@ Principles of Cash Flow Estimation:
 
 Three parts of the problem:
 
-| Initial Investment   |
-| -------------------- |
-| Operating cash flows |
-| Terminal Cash flows  |
+| Process of solving:                                                   |
+| --------------------------------------------------------------------- |
+| Initial Investment, the capital outlay.                               |
+| Operating cash flows, Revenue and cost reduction, depreciation, taxes |
+| Terminal Cash flows, salvage inflows or release of WC.                |
 
+Business Risks:
+- Firm's life stage
+- Relative price change
+- Operating leverage
+- Competitions
+- Cyclical variation
+- Stage in life cycle 
+
+| Systematic                          | Unique / Unsystematic             |
+| ----------------------------------- | --------------------------------- |
+| Risk pertaining to market movements | Risk pertaining to one company    |
+| Macro-economic conditions.          | management decisions, operations. |
+| Effects the whole market.           | Specific firms are effected       |
+| not Diversifiable                   | Diversifiable                     |
+| Beta is the tool                    | no specific tool                  |
+|                                     | Total risk - beta                 |
+|                                     | eliminated to certain extent.     |
+
+| Business                               | Finance                            |
+| -------------------------------------- | ---------------------------------- |
+| risk that impacts the operations       | comes with finance distress costs  |
+| have a good utilization of Fixed costs | can be eliminated to via no debts. |
+| cannot be eliminated,                  |                                    |
+| not Diversifiable                      |                                    |
+| Beta is the tool                       |                                    |
+|                                        |                                    |
+|                                        |                                    |
 
 ---
 
 ## Cost of Capital:
 
+- The cost of capital can be termed as the percentage of returns, the company is expected to give back for the reason that they have borrowed money form debt holders and Equity investors.
+- $\kappa _{Wacc}=\kappa_{e}.W_e+\kappa_d.W_d+\kappa _p.W_p$
+- cost of equity $\kappa _e$ = risk free rate (treasury bill rate) + $\beta$ (Market returns - risk free rate)
 
+- cost of debt $\kappa_d$ = $\dfrac{int.(1-tax)+\dfrac{FV-MV}{N}}{0.4 FV + 0.6 MV}$
 
+- cost of preference capital $\kappa_p$ :$\dfrac{int+\dfrac{FV-MV}{N}}{0.4 FV + 0.6 MV}$
 
+- weights are the market rate of valuations of weighted average of all the sources of capital.
 
+- The main reason a cost of capital is used is as hurdle rate, so that the business will be able to repay all the people who have expectations from the business.
 
 ---
 
 ## Capital Structure and Dividend Decisions:
 
+| Operating Leverage                           | Financial Leverage                        |
+| -------------------------------------------- | ----------------------------------------- |
+| $= \dfrac{Contribution}{EBIT}$               | = $\dfrac {EBIT}{EBT}$                    |
+| = $\dfrac {EBIT_{percent}}{Sales_{percent}}$ | = $\dfrac{EBT_{percent}}{EBIT_{percent}}$ |
+
+| Degree of operating leverage                                 | Degree of Financial leverage                           |
+| ------------------------------------------------------------ | ------------------------------------------------------ |
+| indicates higher fixed costs                                 | indicates higher debt.                                 |
+| if high, means higher fixed costs or low EBIT and vice-versa | if high indicates high EBIT or low EBT and vice versa. |
+
+Factors effecting Capital Structure: (GOA-TCS)
+- Growth rate
+- Operating Leverage
+- Tax rate
+- Asset structure
+- Mindset of manager
+- Credit rating agency
+- stability of income
+
+
+###  Modigliani Miller
+Assumptions: Perfect Capital market, Rational Investors, Homogeneous expectations, Equivalent Risk classes, absence of taxes.
+
+With no taxes:
+Proposition 1: 
+Value of a company = operating income / discount rate, this does not have anything to do with the capital structure of the company.
+
+Arbitrage Argument:
+- Initially the value of levered firm will be higher than the unlevered firm, but over time he will sell the higher value(overvaluation given same operating income) and buy undervalued firm, till both reach equilibrium.
+
+Proposition 2: As Debt increases, the cost of equity also increases, implying the value remains same.
+
+With taxes:
+Proposition 1:
+- Increases debt will lead to increase in value of the firm.
+- Value of levered firm = Value of unlevered firm + tax shield.
+
+Proposition 2:
+- increase in debt will lead to increase in cost of equity, but on a whole this will increase the value of the firm.
+
+### Trade off theory:
+- Firm Value = value of unlevered firm + tax-shield benefit - cost of financial distress.
+- if you take more debt, distress become more than tax shield. 
+- So, there is no debt beyond this point.
+- Bankruptcy costs.
+
+
+### Pecking order:
+- Internal source funds: no dilution, no obligations, preserves credit worthiness and no costs.
+- Debt: no dilution, 
+- Equity: no repayment, cost is high, market perception
+
+
+### Signaling Theory:
+1. There is asymmetry of information between managers and shareholders.
+2. Shareholders look at corporate actions as signals.
+3. Equity: overvalue, not confident about future prospects.
+4. Debt: stable cashflows and internal strength.
+
+### Dividend Theories:
+
+Relevant Theories:
+### Gordon Model:
+- all equity and no debt
+- constant return and IRR.
+- company life is perpetual.
+- cost of capital and IRR is constant.
+
+1. Bird in hand theory, Dividends now better than uncertain future capital appreciations in the future.
+2. $Price = \dfrac {Dividend}{r-g}$, $g=b*r$, where b is retention rate, r is ROI.
+
+- No empirical evidence to convey for dividends.
+
+### Walter model:
+1. The dividend decision directly influences the firm value.
+2. Everything is funded by reserves.
+3. Firm has an infinite life
+4. earnings and dividends do not change
+5. constant: cost of capital and IRR
+
+When to give Dividends? 
+- IRR > Cost of capital. (Retain the earnings)
+
+
+Irrelevant theories:
+### Modigliani Miller model:
+- Dividend policy has no effect on firm value in perfect capital market.
+- investors are rational
+- no asymmetry.
+- Investment policy is known
+- no uncertainty.
+
+$P_0= \dfrac{D_1 + P_1}{1+k}$, k is the cost of equity capital.
+
+- If firms pays dividend, the price will fall as said by the equation.
+- Value of the firm is based on Investment decisions and not dividend decisions.
+
+Types of dividend policy:
+- Stable (with increase rate increases), No Dividend, Constant (rate is constant), Residual (only if surplus after investments), Irregular.
+
+Factors affecting Dividend Policy: (PIG - CTF)
+- Availability of profits and cashflows.
+- Growth opportunities and investment policy.
+- Legal constraints and regulatory.
+- Taxation policy.
+- Stability of Dividends.
+- Target capital structure and debt obligations.
+- shareholders expectations and ownership pattern.
+- Macroeconomic situations
+- Volatility.
+- Industry types and competitions.
+- stage of growth.
+
+
 
 ---
 
 [^1]: Why Should you use Geometric Average against a simple average?
+

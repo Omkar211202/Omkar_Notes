@@ -45,24 +45,25 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   }
 
   return (
-    <ul class="section-ul">
+    <ul class="section-ul pagelist-grid">
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
 
         return (
           <li class="section-li">
-            <div class="section">
-              <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
+            <div class="box">
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
                 </h3>
-              </div>
+              </div>              
+              <p class="meta">
+                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+              </p>
+
               <ul class="tags">
                 {tags.map((tag) => (
                   <li>
@@ -90,5 +91,30 @@ PageList.css = `
 
 .section > .tags {
   margin: 0;
+}
+
+.pagelist-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  .pagelist-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.pagelist-grid > .section-li {
+  margin: 0;
+}
+
+.box {
+  border: 3px solid var(--lightgray);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  background-color: var(--light);
 }
 `

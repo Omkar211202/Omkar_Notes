@@ -26,6 +26,7 @@ Types of scales
 
 ## CRISP DM model:
 
+- 6 phases of the model include: Business understanding, Data understanding, Data preparation, modeling, evaluation, Deployment.
 
 
 ---
@@ -496,6 +497,7 @@ BIC(model)
 ```
 
 
+Classification using GLM in R:
 
 ```r
 set.seed(123)

@@ -5,7 +5,7 @@ date:
 tags:
   - CaseStudy
   - MBA
-draf: "true"
+draft: "true"
 ---
 ## The Case:
 

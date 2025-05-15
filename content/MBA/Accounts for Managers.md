@@ -163,6 +163,7 @@ Finance budgets:
 Formulas:
 
 $contribution = sales - variable cost = Fixed cost + profits.$
+
 $contribution\hspace{2mm}margin = sales\hspace{2mm}per\hspace{2mm}unit-var\hspace{2mm}per\hspace{2mm}unit$
 
 $contribution\hspace{2mm}margin\hspace{2mm}ratio=\dfrac{contribution\hspace{2mm}margin\hspace{2mm}per\hspace{2mm}unit}{sp\hspace{2mm}per\hspace{2mm}unit}$
@@ -178,8 +179,7 @@ $Margin\hspace{2mm}of\hspace{2mm}Safety= actual\hspace{2mm}sales-breakeven\hspac
 $Margin\hspace{2mm}of\hspace{2mm}safety\hspace{2mm}ratio=\dfrac{margin\hspace{2mm}of\hspace{2mm}safety}{actual\hspace{2mm}sales}*100$
 
 
-$Profit$
-= margin of safety * Pv ratio.
+$Profit$= margin of safety * Pv ratio.
 
 ---
 

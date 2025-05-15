@@ -47,7 +47,7 @@ Brief:
 Array is the green lung of Mumbai providing substantial oxygen to the robust and overpopulous city of Mumbai.
 The govt. is planning to use 33 hectares of land for the construction of the metro shed for the upcoming Mumbai underground Metro.
 
-There is lots of protests by environmentalists, Adivasis and others, including the opposition govt. (congress and Shiv Sena (uddhav Thackeray)) .
+There is lots of protests by environmentalists, Adivasis and others, including the opposition govt. (congress and Shiv Sena (Uddhav Thackeray)) .
 
 Concerns:
 Against using Array:
@@ -103,20 +103,20 @@ Deontology:
 
 ### Fourteen principles of  ethics:
 code:C2D2IMEGOPRPT
-- categorical imperative
-- conventional ethic
-- disclosure
-- doctrine of the mean
-- ends means ethic
-- golden rule
-- intuition ethic
-- might equals right ethic
-- organization ethic
-- principle of equal freedom
-- proportionality ethic
-- rights ethic
-- theory of justice
-- utilitarian
+- categorical imperative: do that thing that is considered good by all people in the world.
+- conventional ethic: follow the social norms, traditions accepted by the masses.
+- disclosure: relevant information should be openly shared and can be easily done.
+- doctrine of the mean: no excess and deficiency.
+- ends means ethic: if end result is good means the "Means" is justified.
+- golden rule: Do onto others what you expect from them.
+- intuition ethic: inherent sense of discretion and discrimination.
+- might equals right ethic: responsible for the work you have done.
+- organization ethic: must not disobey the foundations of the organization.
+- principle of equal freedom: maximum freedom provided it does not infringe on the equal freedom of others.
+- proportionality ethic: actions should not cause harm more than the benefit.
+- rights ethic: Each and everyone's right is upheld in the process.
+- theory of justice:  fairness and equality,
+- utilitarian: maximizes overall happiness or utility for the greatest number of people.
 
 ### Ratan Tata:
 1. No metrics to measure for employee well being, customer happiness , vendors etc.
@@ -184,7 +184,7 @@ Video:
 Sustainable development is development that meets the need of the present generation without comprising the ability of future generations to meet their own needs.
 
 Regulations and effect:
-Marginal benefits >= Marginal costs.
+Marginal benefits >= Marginal costs, that's why legislations are not very strong, fearing losses for business on compliance with higher standards.
 
 ### Environmental audit:
  a systematic, documented, periodic and objective study of a business with respect to:

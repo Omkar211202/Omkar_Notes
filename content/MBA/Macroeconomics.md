@@ -49,17 +49,17 @@ Money Supply:
 - $M4$ = M3 + total deposits with Post office excluding NSC.
 
 ### Keynesian demand for money.
-- transaction motive.
-- precautionary.
-- Speculative.
+- transaction motive: People need money to carry out day-to-day transactions.
+- precautionary: People need money to meet emergencies (safety net)
+- Speculative: make quick gains if any economic or investment opportunity is available
 
 ### Bank
-functions of bank:
- - currency authority
- - banker to govt
- - controller of money supply and credit
- - bankers bank and supervisor.
- - custodian of foreign exchange.
+functions of Central bank
+ - currency authority: issues currency for the whole economy.
+ - banker to govt: stores and maintains treasury for them
+ - controller of money supply and credit via Monetary policy
+ - bankers bank and supervisor: banks deposit and borrow from the central bank.
+ - custodian of foreign exchange: maintains foreign currency for strategic reasons like currency price adjustments, foreign trade etc.
 
 ### Monetary policy:
 - Repo Rates: Rates at which RBI lends to commercial rates.
@@ -68,13 +68,17 @@ functions of bank:
 	SLR: statuary liquidity ratio: min% of net demand time liabilities maintained by banks with RBI.
 	CRR: cash reserve ratio:  min% of net demand time liabilities maintained by banks with themselves
 - Open market operations: buying and selling bonds or securities on behalf the govt. as per the situations.
-- selective credit control.
-- moral suasion.
-- margin requirements.
+- selective credit control: giving credit to only sectors and prohibiting credit to others for a balanced growth.
+- moral suasion: pressure banks due to regulatory power.
+- margin requirements: Deciding down payments and Collateral value for giving credit.
+
 ---
 ## Fiscal Policy:
 
-tries to promote economic stability.
+aim; tries to promote economic stability.
+
+- Capital in nature indicate creation or depletion of assets and liabilities for the govt.
+- Revenue in nature indicate working monetary needs like payment of salaries to govt employees etc.
 
 budget:
 - Capital Receipts.
@@ -92,7 +96,6 @@ budget:
  - Price of currency with respect to another.
  - place where currencies are exchanged with other.
 
-
 Types of forex rates:
  - fixed
  - flexible
@@ -100,10 +103,11 @@ Types of forex rates:
 
 ---
 ## Unemployment:
-- structural: tech changes replacing humans.
+
+- structural: technology changes replacing humans.
 - disguised: people acting as if working but not at optimal levels.
 - cyclical: business cycle.
-- seasonal: due to weather changes
+- seasonal: due to weather changes and seasons.
 - frictional: shifting jobs
 - voluntary: people opting out to work.
 

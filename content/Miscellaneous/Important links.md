@@ -4,6 +4,7 @@ date:
   - 2025-01-22
 tags:
   - Life
+draft: "true"
 ---
 ## Finance Research
 - [Acquirer's Multiple](https://acquirersmultiple.com/)

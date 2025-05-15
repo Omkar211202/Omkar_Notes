@@ -21,16 +21,16 @@ tags:
 > What is the difference between Human Resources and Human Capital?
 
 
-Why HRM? (People provide an edge to the organization) (CODE: SAI-AC)
-- Skills, capabilities, practices, process, culture and systems.
-- aligning HR plans with strategic plans.
+Why HRM should exist in an organization? (People provide an edge to the organization) (CODE: SAI-AC)
+- Skills, capabilities, practices, process, culture and systems are pivotal
+- aligning HR plans with strategic plans fosters directional attainment of goals.
 - people power innovation, that further drives competitive advantage.
 - converts adverse situation into an opportunity.
 - HR executive is an effective change agent.
 
 What is Doable & Deliverable for HR?
-- Doable: jobs that are done regularly, Hiring, Training, Development, Industrial relations, Performance management, Compensation, Safety and health and welfare.
-- Deliverable: Through his work, must ensure these happen, Build Human Capital, align HR goals with Corporate goals, from  Administration to  the board.
+- Doable/ duties: jobs that are done regularly, Hiring, Training, Development, Industrial relations, Performance management, Compensation, Safety and health and welfare.
+- Deliverable/ should attain this by work: Through his work, must ensure these happen, Build Human Capital, align HR goals with Corporate goals, from  Administration to  the board.
 
 Factors ascertaining structure:( Question of HR existence, size and structure)
 - Size & Nature of business & the firm.
@@ -52,7 +52,7 @@ Typical HR Roles: Recruiters, Diversity Officers, Job analysts, compensation man
 
 Emerging Roles: welfare officer, happiness officer, Talent management specialist, HR analytics officer.
 
-Why HRM for Managers:
+Why HRM for Managers... All MBA should know HRM..(funny but true)
 1. Avoid Personnel (Labor) Mistakes.
 2. Improving Profits and Performance using HR functions.
 3. Many managers will have to play some HRM role in some part in time.
@@ -171,10 +171,10 @@ Job analysis:
 Process of job analysis:
 1. How to use the info: description, specification, training, appraisal and compensation.
 2. background info: org chart and process chart.
-3. select representative positions.
+3. select representative positions to take data from.
 4. analyze the job: Interviews, questionaries, observations, log entries.
 5. verify information obtained.
-6. develop JD and specifications.
+6. develop Job description and specifications.
 
 Job description: (Obtained from Job analysis)
 - list of job duties and responsibilities, reporting relationships, working conditions and supervisory responsibilities if any.
@@ -215,10 +215,10 @@ Recruitment and selection process:
 - selection tools to identify viable candidates.
 - decide whom to  make offer to, by having the supervisor and others interview the candidates.
 
-![[Pasted image 20250416203511.png]]
+
 
 - Employment or personnel planning: find position in the firm that needs to filled.
-- succession planning: decide ho to fill the company's most important executive jobs.
+- succession planning: decide who will fill the company's most important executive jobs.
 - forecast: personnel needs, inside candidates, outside candidates.
 
 Forecasting Techniques:
@@ -300,8 +300,9 @@ Executive Recruitment;
 
 ---
 ## Interviewing candidates:
+
 - Interview format: structured or directive (example: Mc Murray's Patterned interview), unstructured.
-- structured interview can sustain any legal challenge.
+- structured interview can sustain any legal challenge, incase a case on bias is filed in the org.
 
 - types of contents: Case interview, Situational Interview, behavioral, Job-related, stress.
 - Administration: unstructured sequential, Structured sequential, Panel, One-to-one, phone, computerized, video, web-assisted.
@@ -349,7 +350,7 @@ Personal qualities: simulation interviews.
 ## Performance Management & appraisal:
 
 > [!IMPORTANT] Definition of Performance Appraisal
-> setting work standards to assess performance and provide feedback to employees to motivate, correct, continue and improve their performance.
+> Setting work standards to assess performance and provide feedback to employees to motivate, correct, continue and improve their performance.
 
 
 > [!IMPORTANT] Definition of Performance Management
@@ -359,13 +360,13 @@ Personal qualities: simulation interviews.
 Why appraisal?
 - Pay compensation and promotion.
 - integral role in performance management,
-- correcting deficiencies and reinforcing good pracs.
-- career planning
+- correcting deficiencies and reinforcing good practices.
+- career planning of the candidates.
 
 HR is an advisory, teaching techniques or software, training supervisors on performance management and making it compliant to EEO laws.
 
 
-Methods:
+Methods of Performance management.
 - graphic rating scale: lists a number of traits and a range of performance for each that is used to identify the score that describes an employee.
 - alternation ranking: for each trait, a best to worst list is made.
 - paired comparison: compare every employee with other employee (matrix)
@@ -379,12 +380,12 @@ Methods:
 - merged methods:
 
 
-Problems:
-unclear standards.
-halo effect
-central tendency
-strictness/leniency
-bias
+Problems with PMS:
+- unclear standards.
+- Halo effect: impressions based on other considerations.
+- central tendency: giving all employees similar range of scores.
+- strictness/leniency among varied managers in org.
+- bias: favoring a particular employee due to personal bonding and relationships
 
 ---
 ## Training and Developing Employees:
@@ -394,12 +395,14 @@ bias
 3. Training is the process of teaching new employees the basic skills they need to perform their jobs.
 4. development: learning opportunities designed to help employees grow.
 
-| Trainer                 | Mentor                   | Coach                                           |
-| ----------------------- | ------------------------ | ----------------------------------------------- |
-| asks directive question | answers direct questions | asks open questions.                            |
-| seeks specific answers  | information sources      | enables self discovery                          |
-| highly structured       | seeks alt answers        | dispels false feelings & beliefs.               |
-| based on past learining | based on past experience | can be applied to any situation future focused. |
+Differences:
+
+| Trainer                  | Mentor                   | Coach                                           |
+| ------------------------ | ------------------------ | ----------------------------------------------- |
+| asks directive questions | answers direct questions | asks open questions.                            |
+| seeks specific answers   | information sources      | enables self discovery                          |
+| highly structured        | seeks alt answers        | dispels false feelings & beliefs.               |
+| based on past learining  | based on past experience | can be applied to any situation future focused. |
 
 4-step process of training: need analysis, program design, implementation and evaluation.
 - analysis Training needs: task analysis: new employees' need, performance analysis: assess current employees' training needs.
@@ -421,16 +424,18 @@ management Development:
 ## Compensation Management:
 - why?: attracts talent, motivates employees, rewards performance, reduces turnover, manages compensation budget.
 - renumeration to an employee for his or her contribution to the organization. effects his standard of living, status in society, motivation, loyalty and productivity.
-- effects cost of production
-- fix wages and wage differentials
+- effects cost of production (cost to the company)
+- fixed wages and wage differentials
 - Pay envy: dampens morale and teamwork and causes turnover.
 - Compensation Philosophy: equity, transparency, and consistency.
+
+Theories in Compensation Management;
 - Reinforcement theory: behavior that is rewarded will be repeated.
 - Expectancy theory: increased effort will lead to increased performance, the outcome will be better.
 - instrumentality: performance well, means the valued outcome will be received.
 - valence: importance that the individual places upon the expected outcome.
-- Equity Theory:
-- agency theory:
+
+Typical benefits:
 - DA: allowance that adjust for inflation.
 - Fringe benefits: provident fund, gratuity, insurance, health bills etc.
 - pre-requisites: company car, club membership, paid hols, furnished houses, stock option schemes.

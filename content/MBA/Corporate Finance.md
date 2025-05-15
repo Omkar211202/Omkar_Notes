@@ -5,13 +5,12 @@ date:
 tags:
   - MBA02
   - MBA
-  - Completed
 ---
 
 This whole notes is prepared based on class discussions and Prasanna Chandra's Corporate finance textbook. Looking out for corrections and open discussions on the aspects detailed below.
 ## Introduction to Corporate Finance:
 
-Every Organization must make decisions about finance. What are the foundations on which these decisions have to be made ? Which all aspects of decision making exist broadly are to be considered ? how are financial plans drawn? How to optimize the source of financing to take advantage? Does the structure finance even matter to the organization? Should a company pay out dividends on annual basis? Lots o questions... To begin with...Right ?
+Every Organization must make decisions about finance. What are the foundations on which these decisions have to be made ? Which all aspects of decision making, existing broadly,  are to be considered ? How are financial plans drawn? How to optimize the source of financing to take advantage? Does the structure of finance even matter to the organization? Should a company pay out dividends on an annual basis? Lots of questions... To begin with...Right ?
 
 Lets acknowledge the theories of finance, that led to formulation of the subject of corporate finance.
 
@@ -19,22 +18,22 @@ Theories in Corporate Finance:
 - Efficient market theory: prices change in markets over time.
 - Portfolio: Formation of an optimal portfolio of securities.
 - CAPT: determination of the prices of assets under uncertainty.
-- Options pricing theory: prices of contingent  claims such as call options.
+- Options pricing theory: prices of contingent claims such as call options.
 - Agency Theory: analysis of incentive conflicts in contractual relations.
 
 What is objective of financial decision process?
-- The initial approach of financial decision process was profit maximization, but this is so short term right. The reason for this is because profit's are inconsistent, can be manipulated, can due to credit, and not cash.
+- The initial approach of financial decision process was profit maximization, but this is so short term right. The reason for this is because profit's are inconsistent, can be manipulated, can be due to credit, and not cash.
 - Profit is very short term and myopic, it does not give insights about the future earnings of the firm.
 - leaves considerations of future earnings uncertain.
 
-- Thus, they may be meaningless for the long term perpetual existence of the business, but none the less, a company must profitable to get good valuations, but that's never enough.
+- Thus, they may be meaningless for the long term perpetual existence of the business, but none the less, a company must profitable to get good valuations, they are necessary but not sufficient.
 - So the best way to look at financial decision process is shareholder wealth maximization, this includes both dividend payout and capital appreciation. This encompasses both profit making for the short term, but also forces the organization to look long-term for growth opportunities and plan strategically.
 
 
 [[Valuation_1.excalidraw]]
 
 Agency Problem:
-- Its not possible for all the owners of a company to make decisions in the company, but they will hire professional, who have no or little  stake in the company to do all activities.
+- Its not possible for all the owners of a company to make decisions about the company, but they will hire professionals, who have no or little stake in the company to do all activities.
 - Its not possible for large number of owners to take decisions.
 - change in ownership with no change in operations.
 

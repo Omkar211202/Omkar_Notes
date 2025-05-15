@@ -4,6 +4,7 @@ date:
   - 2025-03-27
 tags:
   - MBA
+draft: "true"
 ---
 ## Inventory Management:
 credit  to Operations and supply chain.

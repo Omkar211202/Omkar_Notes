@@ -5,6 +5,7 @@ date:
 tags:
   - MBA
   - RM
+draft: "true"
 ---
 This is article is written based on inputs from [Research Methodology for Managers](https://omkar211202.github.io/MBA/Research-Methodology-for-Managers)
 A Further Read will be available @ [How to write a Research Paper](https://omkar211202.github.io/Miscellaneous/How-to-write-a-Research-Paper) with timely updates.

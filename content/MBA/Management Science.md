@@ -5,6 +5,7 @@ date:
 tags:
   - MBA02
   - MBA
+image: ../MBA.jpg
 ---
 ## Topics Covered:
 - LPP, Transportation, Assignment, CPM, PERT, Game Theory.

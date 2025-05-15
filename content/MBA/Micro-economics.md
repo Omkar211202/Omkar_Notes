@@ -5,6 +5,7 @@ date:
 tags:
   - MBA01
   - MBA
+image: ../MBA.jpg
 ---
 # Microeconomics:
 ## Terminology:

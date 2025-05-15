@@ -54,15 +54,14 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           <li class="section-li">
             <div class="box">
               <div class="desc">
-                <h3>
-                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                    {title}
-                  </a>
-                </h3>
+              <img src={page.frontmatter?.image as string | undefined} alt={title} height={200} width={355} />
+              <h2 class="title">
+                <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                  {title}
+                </a>
+              </h2>
               </div>              
-              <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
+
 
               <ul class="tags">
                 {tags.map((tag) => (
@@ -76,6 +75,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   </li>
                 ))}
               </ul>
+              <p class="meta">
+                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+              </p>
             </div>
           </li>
         )
@@ -95,15 +97,16 @@ PageList.css = `
 
 .pagelist-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
   list-style: none;
   padding: 0;
+  justify-items: center;
 }
 
 @media (max-width: 600px) {
   .pagelist-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
@@ -116,5 +119,36 @@ PageList.css = `
   border-radius: 0.5rem;
   padding: 1rem;
   background-color: var(--light);
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  width: 90%;
+  }
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.title {
+  font-size: 16px;
+  margin: 0.1rem 0 0.1rem 0;
+}
+
+.meta {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0.1rem 0 0.1rem 0;
+  
+}
+
+.tags {
+  margin: 0.1rem 0 0.1rem 0;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  list-style: none;
 }
 `

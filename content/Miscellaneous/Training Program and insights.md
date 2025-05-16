@@ -4,6 +4,7 @@ date:
   - 2024-12-10
 tags:
   - MBA
+image: ../Miscellaneous.jpg
 ---
 ## Handling Managerial  problems:
 

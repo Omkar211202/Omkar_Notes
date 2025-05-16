@@ -6,6 +6,7 @@ tags:
   - CaseStudy
   - MBA
 draft: "true"
+image: ../Miscellaneous.jpg
 ---
 ## The Case:
 

@@ -5,6 +5,7 @@ tags:
 date:
   - 2025-04-25
 draft: "true"
+image: ../actuarial.jpg
 ---
 > [!help] Guide
 > This Material is a guide to macro view of MAS I exam. Please use it to revise your understanding of concept alone.

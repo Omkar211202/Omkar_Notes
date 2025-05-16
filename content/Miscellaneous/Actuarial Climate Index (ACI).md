@@ -5,6 +5,7 @@ date:
 tags:
   - Actuarial
 draft: "true"
+image: ../Miscellaneous.jpg
 ---
 ## Introduction:
 

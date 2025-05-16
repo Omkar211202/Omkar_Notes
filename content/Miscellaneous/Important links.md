@@ -5,6 +5,7 @@ date:
 tags:
   - Life
 draft: "true"
+image: ../Miscellaneous.jpg
 ---
 ## Finance Research
 - [Acquirer's Multiple](https://acquirersmultiple.com/)

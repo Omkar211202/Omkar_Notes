@@ -5,6 +5,7 @@ date:
 tags:
   - Techie
 draft: "true"
+image: ../tech.jpg
 ---
 ## How does ChatGPT Work???
 

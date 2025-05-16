@@ -5,6 +5,7 @@ date:
 tags:
   - DS
   - Techie
+image: ../tech.jpg
 ---
 ## Intro:
 

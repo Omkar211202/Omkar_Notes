@@ -5,6 +5,7 @@ date:
 tags:
   - FM
   - Act
+image: ../actuarial.jpg
 ---
 Most important site is the formula sheet:
 [Coaching Actuaries formula sheet](https://files.coachingactuaries.com/ca/library/fm%20formula%20sheet.pdf)

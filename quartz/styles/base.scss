@@ -93,7 +93,7 @@ a {
       &::before {
         content: "#";
       }
-      background-color: blue;
+      background-color: var(--lightgray);
     }
   }
 

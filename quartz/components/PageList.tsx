@@ -47,8 +47,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <ul class="section-ul pagelist-grid">
       {list.map((page) => {
-        const title = page.frontmatter?.title
+        const title = page.frontmatter?.title ?? ""
         const tags = page.frontmatter?.tags ?? []
+        const image = page.frontmatter?.image ?? "../Root.jpg"
 
         return (
           <li class="section-li">
@@ -57,7 +58,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             
               <div class="desc">
               <div class="container">
-              <img src={page.frontmatter?.image as string | undefined} alt={title} height={200} width={355} />
+              <img src={image as string} alt={title as string} height={200} width={355} />
 
               <div class="bottom-right">{title}</div>
               {/* <ul class="tags bottom-down">

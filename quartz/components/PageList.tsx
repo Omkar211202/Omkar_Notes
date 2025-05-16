@@ -52,11 +52,30 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 
         return (
           <li class="section-li">
+          <a href={resolveRelative(fileData.slug!, page.slug!)}>
             <div class="box">
+            
               <div class="desc">
+              <div class="container">
               <img src={page.frontmatter?.image as string | undefined} alt={title} height={200} width={355} />
+
+              <div class="bottom-right">{title}</div>
+              {/* <ul class="tags bottom-down">
+                {tags.map((tag) => (
+                  <li>
+                    <a
+                      class="internal tag-link"
+                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul> */}
+              </div>
+
               <h2 class="title">
-                <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                <a href={resolveRelative(fileData.slug!, page.slug!)} class="heading">
                   {title}
                 </a>
               </h2>
@@ -79,6 +98,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
               </p>
             </div>
+          </a>
           </li>
         )
       })}
@@ -115,13 +135,13 @@ PageList.css = `
 }
 
 .box {
-  border: 3px solid var(--lightgray);
+  border: 3px solid var(--darkgray);
   border-radius: 0.5rem;
-  padding: 1rem;
+  padding: 0.5rem;
   background-color: var(--light);
   display: flex;
   flex-direction: column;
-  gap: 0.3rem;
+  gap: 0.1rem;
   width: 90%;
   }
 
@@ -132,7 +152,7 @@ PageList.css = `
 }
 
 .title {
-  font-size: 16px;
+  text-sze: 32px;
   margin: 0.1rem 0 0.1rem 0;
 }
 
@@ -140,7 +160,6 @@ PageList.css = `
   display: flex;
   justify-content: flex-end;
   margin: 0.1rem 0 0.1rem 0;
-  
 }
 
 .tags {
@@ -150,5 +169,37 @@ PageList.css = `
   flex-wrap: wrap;
   gap: 0.2rem;
   list-style: none;
+
 }
-`
+
+.heading{
+  text-decoration: none;
+  background-color: yellow;
+  font-size: 1.5rem;}
+
+.container{
+  position:relative;
+  text-align:center;
+  color: white;
+
+  }
+
+.bottom-right{
+  position:absolute;
+  bottom: 32px;
+  right: 32px;
+  font-size: 1.2rem;
+  background-color: red;
+  padding: 4px;
+  border-radius: 0.5rem;
+  
+  }
+
+.bottom-down{
+  position:absolute;
+  bottom: 16px;
+  right: 32px;
+  font-size: 1rem;
+  padding: 4px;
+  border-radius: 0.5rem;
+}`

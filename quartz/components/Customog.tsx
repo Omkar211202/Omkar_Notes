@@ -25,6 +25,7 @@ export const Og = (
   })
  
   const Li = [created, reading]
+  console.log("this is the tiltle",title)
   return (
     <div
       style={{
@@ -63,7 +64,7 @@ export const Og = (
         }}
       >
         <img
-          src={`https://${cfg.baseUrl}/static/icon.jpeg`}
+          src={`https://${cfg.baseUrl}/static/icon.png`}
           width={80}
           height={80}
           style={{

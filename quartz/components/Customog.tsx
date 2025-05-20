@@ -39,6 +39,27 @@ export const Og = (
         backgroundSize: "100% 100%",
       }}
     >
+      {/* Title at bottom right of image */}
+      <div
+        style={{
+          position: "absolute",
+          right: "2.5rem",
+          bottom: "2.5rem",
+          background: "rgba(0,0,0,0.65)",
+          color: "#fff",
+          padding: "1rem 2rem",
+          borderRadius: "0.5rem",
+          fontSize: "2.5rem",
+          fontWeight: 700,
+          maxWidth: "60%",
+          textAlign: "right",
+          fontFamily: fonts[0].name,
+          zIndex: 2,
+          boxShadow: "0 2px 12px rgba(0,0,0,0.2)",
+        }}
+      >
+        {title}
+      </div>
       <div
         style={{
           position: "absolute",

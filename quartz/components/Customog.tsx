@@ -45,17 +45,23 @@ export const Og = (
           position: "absolute",
           right: "3.5rem",
           bottom: "3.5rem",
-          background: "rgba(0,0,0,0.65)",
+          background: "rgba(0,0,0,0.85)", // More opaque for better contrast
           color: "#fff",
-          padding: "1rem 2rem",
-          borderRadius: "0.5rem",
-          fontSize: "2.5rem",
-          fontWeight: 700,
-          maxWidth: "60%",
+          padding: "1.5rem 2.5rem",       // More padding
+          borderRadius: "0.75rem",        // Slightly more rounded
+          fontSize: "2.7rem",             // Slightly larger font
+          fontWeight: 800,                // Bolder
+          maxWidth: "65%",
           textAlign: "right",
           fontFamily: fonts[0].name,
-          zIndex: 2,
-          boxShadow: "0 2px 12px rgba(0,0,0,0.2)",
+          zIndex: 10,
+          boxShadow: "0 4px 24px rgba(0,0,0,0.4)",
+          border: "2px solid rgba(255,255,255,0.25)", // Subtle border
+          textShadow: "0 2px 8px rgba(0,0,0,0.7), 0 1px 0 #222", // Text shadow for readability
+          letterSpacing: "0.02em",
+          lineHeight: 1.2,
+          overflow: "hidden",
+          whiteSpace: "pre-line",
         }}
       >
         {title}

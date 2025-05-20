@@ -43,8 +43,8 @@ export const Og = (
       <div
         style={{
           position: "absolute",
-          right: "2.5rem",
-          bottom: "2.5rem",
+          right: "3.5rem",
+          bottom: "3.5rem",
           background: "rgba(0,0,0,0.65)",
           color: "#fff",
           padding: "1rem 2rem",

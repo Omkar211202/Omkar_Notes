@@ -50,12 +50,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         const title = page.frontmatter?.title ?? ""
         const tags = page.frontmatter?.tags ?? []
         const image = page.frontmatter?.image ?? "../Root.jpg"
-
         return (
           <li class="section-li">
           <a href={resolveRelative(fileData.slug!, page.slug!)}>
             <div class="box">
-            
               <div class="desc">
               <div class="container">
               <img src={image as string} alt={title as string} height={200} width={355} />

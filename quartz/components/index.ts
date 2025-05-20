@@ -23,6 +23,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import RenderExcalidraw from "./RenderExcalidraw"
+import Similar  from "./Similar"
 export {
   ArticleTitle,
   Content,
@@ -48,5 +49,6 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  RenderExcalidraw
+  RenderExcalidraw,
+  Similar,
 }

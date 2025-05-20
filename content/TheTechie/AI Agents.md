@@ -111,3 +111,7 @@ user use.
 
 ### coleam00 ai agents
 [https://www.youtube.com/watch?v=zaNIvRllycM&list=PLyrg3m7Ei-MpsdEA6eKN1k2gJpuhllNTi](https://www.youtube.com/watch?v=zaNIvRllycM&list=PLyrg3m7Ei-MpsdEA6eKN1k2gJpuhllNTi)
+
+---
+
+GPT: Generative Pre-Trained Transformer.

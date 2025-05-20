@@ -24,9 +24,11 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import RenderExcalidraw from "./RenderExcalidraw"
 import Similar  from "./Similar"
+import { Og } from "./Customog"
 export {
   ArticleTitle,
   Content,
+  Og,
   TagContent,
   FolderContent,
   Darkmode,

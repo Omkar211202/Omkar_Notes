@@ -4,7 +4,7 @@ tags:
   - Actuarial
 date:
   - 2025-04-25
-draft: "true"
+draft: "false"
 image: ../actuarial.jpg
 ---
 > [!help] Guide
@@ -13,6 +13,7 @@ image: ../actuarial.jpg
 
 ## Probability Models:
 
+### 1.1 Claim Severity Distributions:
 
 ### 1.2 Policy Modifications
 - Policy Limits:
@@ -24,7 +25,11 @@ image: ../actuarial.jpg
 - The ultimate formula
 
 
-### Poisson Process:
+### 1.3 Conditional Tail Expectation
+
+
+
+### 1.4 Poisson Process:
 - What's a Poisson Process.
 - Time between Events.
 - conditional distribution on arrival times.
@@ -32,7 +37,44 @@ image: ../actuarial.jpg
 - Mixture of Poisson Process
 - Compound Poisson Process
 
-### Reliability Theory:
+### 1.5 Reliability Theory:
 - Introduction to Systems: Parallel System, Series System, K out of n system, bridge systems.
 - Minimal Path Systems and Minimal Cut sets:
-- 
+
+### 1.6 Markov Chains:
+
+
+### 1.7 Life Contingencies:
+
+
+
+### 1.8 Simulation
+
+---
+
+## Statistics:
+
+### 2.1 Parameter and Density Estimation
+### 2.2 Estimator Quality
+### 2.3 Hypothesis testing
+### 2.4 Most Powerful Tests
+### 2.5 Goodness of Fit tests
+### 2.6 Confidence intervals
+### 2.7 Order Statistics
+
+
+---
+
+## Extended Linear Models:
+
+### 3.1 Introduction
+### 3.2 Simple Linear Regression
+### 3.3 Multiple Linear Regression
+### 3.4 ANOVA
+### 3.5 Linear Model Assessment
+### 3.6 Model Selection
+### 3.7 Other Linear Regression approaches
+### 3.8 Generalized Linear models
+### 3.9 Binomial and categorical response regression
+### 3.10 Poisson Response
+### 3.11 Generalized Additive Models.

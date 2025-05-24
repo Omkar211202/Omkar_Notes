@@ -2,6 +2,7 @@
 title: BlackBox
 date:
   - 2024-10-27
+image: ../Root.jpg
 ---
 
 

@@ -55,6 +55,10 @@ image: ../actuarial.jpg
 ## Statistics:
 
 ### 2.1 Parameter and Density Estimation
+- Method of moments
+- Percentile Matching
+- Smoothed Empirical Percentile
+- 
 ### 2.2 Estimator Quality
 ### 2.3 Hypothesis testing
 ### 2.4 Most Powerful Tests

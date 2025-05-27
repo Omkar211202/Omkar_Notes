@@ -4,6 +4,7 @@ date:
   - 2025-05-22
 tags:
   - Act
+image: ../actuarial.jpg
 ---
 ## Parameter and Density Estimation:
 - Method of moments

@@ -4,8 +4,8 @@ date:
   - 2024-10-27
 tags:
   - FM
-  - Act
-image: ../actuarial.jpg
+  - Actuarial
+image: ../../Images/actuarial.jpg
 ---
 ## Amount Function:
 ### Interest rate:

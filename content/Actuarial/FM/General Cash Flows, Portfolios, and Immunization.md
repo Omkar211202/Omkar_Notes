@@ -4,8 +4,8 @@ date:
   - 2024-11-01
 tags:
   - FM
-  - Act
-image: ../actuarial.jpg
+  - Actuarial
+image: ../../Images/actuarial.jpg
 ---
 
 ## Spot Rates and Forward Rates.

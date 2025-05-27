@@ -2,10 +2,11 @@
 title: MAS I Macro-view
 tags:
   - Actuarial
+  - MAS-1
 date:
   - 2025-04-25
 draft: "false"
-image: ../actuarial.jpg
+image: ../../Images/actuarial.jpg
 ---
 > [!help] Guide
 > This Material is a guide to macro view of MAS I exam. Please use it to revise your understanding of concept alone.

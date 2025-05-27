@@ -5,7 +5,7 @@ date:
 tags:
   - MBA02
   - MBA
-image: ../MBA.jpg
+image: ../Images/MBA.jpg
 ---
 
 This whole notes is prepared based on class discussions and Prasanna Chandra's Corporate finance textbook. Looking out for corrections and open discussions on the aspects detailed below.

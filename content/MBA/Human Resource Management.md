@@ -5,7 +5,7 @@ date:
 tags:
   - MBA02
   - MBA
-image: ../MBA.jpg
+image: ../Images/MBA.jpg
 ---
 ## Nature and Scope of HRM:
 

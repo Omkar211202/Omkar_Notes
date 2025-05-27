@@ -3,8 +3,9 @@ title: Statistics.
 date:
   - 2025-05-22
 tags:
-  - Act
-image: ../actuarial.jpg
+  - MAS-1
+  - Actuarial
+image: ../../Images/actuarial.jpg
 ---
 ## Parameter and Density Estimation:
 - Method of moments

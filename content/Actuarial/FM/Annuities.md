@@ -4,8 +4,8 @@ date:
   - 2024-10-28
 tags:
   - FM
-  - Act
-image: ../actuarial.jpg
+  - Actuarial
+image: ../../Images/actuarial.jpg
 ---
 ## What are Annuities?
 Annuities are payments made at regular intervals by you or someone else to you, because you should return lumpsum at the end or you paid lumpsum in the beginning respectively.

@@ -5,7 +5,7 @@ date:
 tags:
   - MBA01
   - MBA
-image: ../MBA.jpg
+image: ../Images/MBA.jpg
 ---
 ## Organizational Behavior:
 

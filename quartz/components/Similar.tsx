@@ -24,7 +24,6 @@ export default ((opts?: Partial<BacklinksOptions>) => {
   }: QuartzComponentProps) => {
     const tags=(fileData.frontmatter?.tags)
     const backlinkFiles = allFiles.filter((file) => file.frontmatter?.tags?.some(item =>tags?.includes(item))).sort(byDateAndAlphabetical(cfg)).filter((file) => file.frontmatter?.title !== fileData.frontmatter?.title)
-
     if (options.hideWhenEmpty && backlinkFiles.length == 0) {
       return null
     }

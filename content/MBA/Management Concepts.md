@@ -5,7 +5,7 @@ date:
 tags:
   - MBA01
   - MBA
-image: ../Images/MBA.jpg
+image: /Images/MBA.jpg
 ---
 ## Introduction:
 ### Definition:

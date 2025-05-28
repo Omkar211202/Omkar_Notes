@@ -5,7 +5,7 @@ date:
 tags:
   - FM
   - Actuarial
-image: ../../Images/actuarial.jpg
+image: /Images/actuarial.jpg
 ---
 
 ## Spot Rates and Forward Rates.

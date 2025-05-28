@@ -5,7 +5,7 @@ date:
 tags:
   - MBA
 draft: "true"
-image: ../Miscellaneous.jpg
+image: /Images/Miscellaneous.jpg
 ---
 ## ESG and Corporate Finance:
 

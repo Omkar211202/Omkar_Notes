@@ -4,7 +4,7 @@ date:
   - 2024-12-06
 tags:
   - WebDev
-image: ../tech.jpg
+image: /Images/tech.jpg
 ---
 
 ## Architecture used:

@@ -5,7 +5,7 @@ date:
 tags:
   - FM
   - Actuarial
-image: ../../Images/actuarial.jpg
+image: /Images/actuarial.jpg
 ---
 ## Amount Function:
 ### Interest rate:

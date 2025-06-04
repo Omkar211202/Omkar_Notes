@@ -23,8 +23,8 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  folderDefaultState: "collapsed",
-  folderClickBehavior: "link",
+  folderDefaultState: "open",
+  folderClickBehavior: "collapse",
   useSavedState: true,
   mapFn: (node) => {
     return node
@@ -46,8 +46,12 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+
+  filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "Excalidraw",
   order: ["filter", "map", "sort"],
+
+
+  
 }
 
 export type FolderState = {

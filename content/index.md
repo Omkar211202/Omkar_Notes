@@ -17,6 +17,9 @@ The following are few of the contents of black box:
 - [[TheTechie]]: Some magical coding that probably could simplify your work
   
 ![Anti-Trust - War Machine](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)
+
+Version 1.
+
 ## Welcome to BlackBox
 
 

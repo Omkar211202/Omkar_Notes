@@ -30,7 +30,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.Podcasts(),
+    Component.MobileOnly(Component.Podcasts()),
+
   ],
   left: [
     Component.PageTitle(),
@@ -48,10 +49,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Explorer(),
       condition: (page) => page.fileData.slug == "index",
     }),
-    Component.ConditionalRender({
-      component:Component.DesktopOnly(Component.TableOfContents()),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Graph()),
 
   
@@ -61,7 +59,6 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Similar(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    
     Component.Backlinks(),
   ],
 }

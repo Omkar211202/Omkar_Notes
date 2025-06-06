@@ -28,16 +28,15 @@ export default ((opts?: Partial<BacklinksOptions>) => {
         <h3>Hear as you Read</h3>
          <div class="box">
               <div class="desc">
-              <div class="container">
+              <div class="container"> 
               <img src={fileData.frontmatter?.image as string} alt={fileData.frontmatter?.title as string} height={200} width={355} />
-                <audio controls src={fileData.frontmatter?.podcast as string} style={{ width: '75%',placeSelf: 'start',backgroundColor:'black' }} class="bottom-r" >
+                <audio controls src={fileData.frontmatter?.podcast as string} style={{ width: '75%',placeSelf: 'start',backgroundColor:'black'  }} class="bottom-r">
                     Your browser does not support the audio element.
                 </audio>
               <div class="bottom-l">{fileData.frontmatter?.title as string}</div>
               </div>
               </div>
-
-         </div> 
+        </div>
       </div>
     )}
   }
@@ -69,7 +68,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
 .bottom-r{
   position:absolute;
   bottom: 25px;
-  right: 64px;
+  right: 32px;
   font-size: 1rem;
   background-color: white;
   padding: 4px;
@@ -81,7 +80,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
   position:absolute;
   bottom: 72px;
   right: 32px;
-  font-size: 1.2rem;
+  font-size: 0.75rem;
   background-color: black;
   padding: 4px;
   border-radius: 0.5rem;

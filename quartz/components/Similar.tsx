@@ -65,7 +65,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
   overflow-y: hidden;
   white-space: nowrap;
   scrollbar-width: thin;
-  height: 25rem;
+  height: 35rem;
   border: 2px solid var(--darkgray);
   border-radius: 0.5rem;
   padding: 5px;

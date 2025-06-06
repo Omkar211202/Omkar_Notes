@@ -5,11 +5,10 @@ date:
 tags:
   - MBA01
   - MBA
+  - Podcast
 image: /Resources/MBA.jpg
 podcast: /Resources/BGS.mp3
 ---
-![[BGS.mp3]]
-
 ## What's BGS ??
 
 BGS is the study of interactions btw :

@@ -25,6 +25,7 @@ import ConditionalRender from "./ConditionalRender"
 import RenderExcalidraw from "./RenderExcalidraw"
 import Similar  from "./Similar"
 import { Og } from "./Customog"
+import Podcasts from "./Podcasts"
 export {
   ArticleTitle,
   Content,
@@ -53,4 +54,5 @@ export {
   ConditionalRender,
   RenderExcalidraw,
   Similar,
+  Podcasts,
 }

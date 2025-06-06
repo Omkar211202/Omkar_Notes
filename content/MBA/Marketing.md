@@ -5,11 +5,10 @@ date:
 tags:
   - MBA01
   - MBA
+  - Podcast
 image: /Resources/MBA.jpg
 podcast: /Resources/Marketing.mp3
 ---
-![[Marketing.mp3]]
-
 ## Marketing Introduction and Reality:
 
 ### Marketing:

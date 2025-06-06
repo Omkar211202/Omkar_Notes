@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.Podcasts(),
   ],
   left: [
     Component.PageTitle(),
@@ -60,6 +61,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Similar(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    
     Component.Backlinks(),
   ],
 }

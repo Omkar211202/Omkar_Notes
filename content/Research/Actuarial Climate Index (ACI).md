@@ -6,7 +6,7 @@ tags:
   - Actuarial
   - Research
 draft: "false"
-image: /Images/Research.jpg
+image: /Resources/Research.jpg
 ---
 ## Introduction:
 

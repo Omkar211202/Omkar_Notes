@@ -5,7 +5,7 @@ date:
 tags:
   - MBA01
   - MBA
-image: /Images/MBA.jpg
+image: /Resources/MBA.jpg
 ---
 ## Basic Statistics and Excel:
 ### Excel Formulas:

@@ -6,7 +6,7 @@ tags:
   - MBA
   - Research
 draft: "false"
-image: /Images/Research.jpg
+image: /Resources/Research.jpg
 ---
 ## ESG and Corporate Finance:
 

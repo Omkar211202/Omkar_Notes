@@ -4,7 +4,7 @@ date:
   - 16-05-2025
 tags:
   - Techie
-image: /Images/tech.jpg
+image: /Resources/tech.jpg
 draft: "false"
 ---
 ## How LLMS Works??

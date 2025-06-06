@@ -1,6 +1,6 @@
 ---
 title: MAS-1
-image: /Images/actuarial.jpg
+image: /Resources/actuarial.jpg
 date:
   - 2025-05-27
 tags:

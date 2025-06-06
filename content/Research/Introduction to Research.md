@@ -5,7 +5,7 @@ date:
 tags:
   - Research
 draft: "true"
-image: /Images/Research.jpg
+image: /Resources/Research.jpg
 ---
 ## What's Research?
 

@@ -3,7 +3,7 @@ title: AI Research Tools
 date:
   - 2025-05-28
 draft: "true"
-image: /Images/Research.jpg
+image: /Resources/Research.jpg
 tags:
   - Research
 ---

@@ -6,7 +6,7 @@ tags:
   - Research
   - Techie
 draft: "false"
-image: /Images/Research.jpg
+image: /Resources/Research.jpg
 ---
 ### Abstract:
 The problem we want to solve is to analyze the relationships between all the variables with respect to a customer, and see if its beneficial for the bank to give him a loan or not.

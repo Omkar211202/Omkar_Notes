@@ -5,7 +5,7 @@ date:
 tags:
   - MBA02
   - MBA
-image: /Images/MBA.jpg
+image: /Resources/MBA.jpg
 ---
 
 ## Types of Analytics:

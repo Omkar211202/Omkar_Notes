@@ -5,7 +5,7 @@ date:
 tags:
   - FM
   - Actuarial
-image: /Images/actuarial.jpg
+image: /Resources/actuarial.jpg
 ---
 ## Loans:
 Loans have the same concepts like annuities  with payments made at intervals.

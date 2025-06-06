@@ -4,7 +4,7 @@ date:
   - 2025-03-28
 tags:
   - MBA
-image: /Images/MBA.jpg
+image: /Resources/MBA.jpg
 ---
 This page is built based on the inputs given by Bhagavan Baba.
 

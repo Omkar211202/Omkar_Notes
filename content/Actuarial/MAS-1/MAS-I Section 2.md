@@ -5,7 +5,7 @@ date:
 tags:
   - MAS-1
   - Actuarial
-image: /Images/actuarial.jpg
+image: /Resources/actuarial.jpg
 ---
 ## Parameter and Density Estimation:
 - Method of moments

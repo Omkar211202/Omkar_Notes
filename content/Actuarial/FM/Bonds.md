@@ -5,7 +5,7 @@ date:
 tags:
   - FM
   - Actuarial
-image: /Images/actuarial.jpg
+image: /Resources/actuarial.jpg
 ---
 ## What's a Bond?
 Bond is similar to a loan, but it has smaller payments in the time period but ends with a lumpsum payment at the end to the term.

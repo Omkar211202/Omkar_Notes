@@ -5,7 +5,7 @@ date:
 tags:
   - MBA
 draft: "true"
-image: /Images/Miscellaneous.jpg
+image: /Resources/Miscellaneous.jpg
 ---
 ## Inventory Management:
 credit  to Operations and supply chain.

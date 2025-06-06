@@ -5,9 +5,10 @@ date:
 tags:
   - MBA01
   - MBA
-image: /Images/MBA.jpg
+image: /Resources/MBA.jpg
+podcast: /Resources/BGS.mp3
 ---
-![[Business, Government & Society Overview.mp3]]
+![[BGS.mp3]]
 
 ## What's BGS ??
 

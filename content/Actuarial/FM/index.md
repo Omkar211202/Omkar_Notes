@@ -1,6 +1,6 @@
 ---
 title: Financial Mathematics
-image: /Images/actuarial.jpg
+image: /Resources/actuarial.jpg
 date:
   - 16-05-2025
 tags:

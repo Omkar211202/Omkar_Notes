@@ -5,7 +5,7 @@ date:
 tags:
   - Techie
 draft: "true"
-image: /Images/tech.jpg
+image: /Resources/tech.jpg
 ---
 ## How does ChatGPT Work???
 

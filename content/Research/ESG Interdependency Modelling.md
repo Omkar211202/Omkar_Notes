@@ -4,7 +4,7 @@ tags:
   - Research
 date:
   - 2025-05-29
-image: /Images/Research.jpg
+image: /Resources/Research.jpg
 ---
 ## Literature Review:
 

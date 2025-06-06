@@ -5,9 +5,10 @@ date:
 tags:
   - MBA01
   - MBA
-image: /Images/MBA.jpg
+image: /Resources/MBA.jpg
+podcast: /Resources/Marketing.mp3
 ---
-![[Fundamentals of Marketing Management.mp3]]
+![[Marketing.mp3]]
 
 ## Marketing Introduction and Reality:
 

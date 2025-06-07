@@ -17,7 +17,7 @@ it comprises of various sections of content and notes:
 - #Techie : A Deep Dive into AI and Web development
 - #Research : Covers a systematic collection of concepts and tools in research.
 
-A Special thanks to [Hursh Gupta](https://www.linkedin.com/in/hgup/) for introducing me to this wonder template, upon which the entire Website is built.
+A Special thanks to [Hursh Gupta](https://www.linkedin.com/in/hgup/), whose conversations sparked interests in web development  and tech. A special thanks to him for introducing me to the static generator: [Quartz](https://quartz.jzhao.xyz/)
 
 Do try #Podcast 
 

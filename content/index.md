@@ -3,11 +3,6 @@ title: BlackBox
 date:
   - 2024-10-27
 image: /Resources/Root.jpg
-tags:
-  - "#MBA"
-  - "#Actuarial"
-  - "#Techie"
-  - "#Research"
 ---
 
 ## Welcome to Black-Box...

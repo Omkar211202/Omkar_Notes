@@ -5,7 +5,7 @@ tags:
   - MAS-1
 date:
   - 2025-04-25
-draft: "false"
+draft: "true"
 image: /Resources/actuarial.jpg
 ---
 > [!help] Guide

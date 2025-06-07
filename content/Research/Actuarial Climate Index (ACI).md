@@ -5,7 +5,7 @@ date:
 tags:
   - Actuarial
   - Research
-draft: "false"
+draft: "true"
 image: /Resources/Research.jpg
 ---
 ## Introduction:

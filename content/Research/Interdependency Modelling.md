@@ -5,4 +5,5 @@ date:
 tags:
   - Research
 image: /Resources/Research.jpg
+draft: "true"
 ---

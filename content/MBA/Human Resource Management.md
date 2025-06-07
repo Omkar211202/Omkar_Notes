@@ -6,6 +6,7 @@ tags:
   - MBA02
   - MBA
 image: /Resources/MBA.jpg
+podcast: /Resources/HRM.mp3
 ---
 ## Nature and Scope of HRM:
 

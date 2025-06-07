@@ -3,32 +3,34 @@ title: BlackBox
 date:
   - 2024-10-27
 image: /Resources/Root.jpg
+tags:
+  - "#MBA"
+  - "#Actuarial"
+  - "#Techie"
+  - "#Research"
 ---
 
-## What's BlackBox ?
+## Welcome to Black-Box...
 
-Black Box is a note-management system built to make systematic, eternal and accessible notes.
-Built by using the Quartz V4 framework, notes made on Obsidian are rendered on this web-site.
-The following are few of the contents of black box:
-
-- [[MBA]]: Includes lessons from Finance, Marketing, Operation and Analytics.
-- [[Actuarial]]: Includes info about exam FM
-- [[Miscellaneous]]:  This contains some random yet important things you may want to know.
-- [[TheTechie]]: Some magical coding that probably could simplify your work
+Well, if you don't feel like reading, try out these: #Podcast
   
-![Anti-Trust - War Machine](https://www.youtube.com/watch?v=3CM1_Ji6fJ8)
-## Welcome to BlackBox
+Lets start off with a Riddle:
 
+Who am I?
+Anything Ordinary diminishes on being used or spent and grows when accumulated or saved. But I am Unique. I grow when I am spent or used, but diminish or perish when kept in silence or hoarded.
+There may be none like me.... I am Unique Who am I?
 
-> [!caution]
-> You need Internet
+Comments Please>>
 
+Well, the sole aim of this Black Box is to make me thrive. Remember, I thrive when spent time on. Some minute fragments of me include:
 
+- #MBA : Aspects of Finance, Marketing, Analytics and Operations.
+- #Actuarial : Covers Exam FM.
+- #Research : Starting a research, doing a research project etc.
+- #Techie : AI and Web development.
 
+Well, I Surpass the oceans in my depth, Mountains height, I take mankind from steps to leaps.
 
+I thrive when you share, So share, visit and revisit.
 
-
-
-
-
-
+WHO AM I?

@@ -6,7 +6,11 @@ image: /Resources/Root.jpg
 ---
 ## Welcome to Black Box:
 
-Black Box is a comprehensive collection of ideas, content and notes.  Built by: [Omkar Kathi](https://www.linkedin.com/in/omkarkathi/), it comprises of various sections of content and notes:
+Black Box is a comprehensive collection of ideas, content and notes. 
+
+Built by: [Omkar Kathi](https://www.linkedin.com/in/omkarkathi/),
+
+it comprises of various sections of content and notes:
 
 - #Actuarial : Comprehensive coverage for Exam FM.
 - #MBA: Covers core concepts for managers in Finance, Marketing, Operation and Analytics.

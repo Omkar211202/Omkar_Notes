@@ -37,6 +37,7 @@
   "dependencies": {
     "@clack/prompts": "^0.11.0",
     "@floating-ui/dom": "^1.7.0",
+    "@huggingface/inference": "^4.0.5",
     "@myriaddreamin/rehype-typst": "^0.6.0",
     "@napi-rs/simple-git": "0.1.19",
     "@tweenjs/tween.js": "^25.0.0",
@@ -46,7 +47,9 @@
     "chokidar": "^4.0.3",
     "cli-spinner": "^0.2.10",
     "d3": "^7.9.0",
+    "dotenv": "^16.5.0",
     "esbuild-sass-plugin": "^3.3.1",
+    "express": "^5.1.0",
     "flexsearch": "0.7.43",
     "github-slugger": "^2.0.0",
     "globby": "^14.1.0",
@@ -109,6 +112,7 @@
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.25.5",
     "prettier": "^3.5.3",
+    "ts-node": "^10.9.2",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3"
   }
